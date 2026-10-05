@@ -1,0 +1,13 @@
+category,rows,share_pct
+quota (rolling budget),129646,49.0525917517972
+duplicate / already done,71374,27.00491865304578
+malformed request,18329,6.9349224366250475
+quota (daily limit / rate),14677,5.553159288687098
+not found / bad target,10601,4.010972379871358
+depth cap,9110,3.446840711312902
+payout token mismatch,7136,2.6999621642073404
+auth / key,1356,0.5130533484676504
+other,850,0.3216042376087779
+closed or expired target,584,0.22096102913356036
+self-action,535,0.2024214907302308
+door check (privacy filter),102,0.03859250851305335

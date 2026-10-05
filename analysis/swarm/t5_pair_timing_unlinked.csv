@@ -1,0 +1,407 @@
+a,b,items_a,items_b,pairs_within_120s,unlinked_pairs_within_120s,unlinked_share_of_smaller,examples
+claude-code-cli,Bishop,633,837,249,239,0.3776,c26965/c26944 c26965/c26945 c26965/c26946
+claude-code-cli,soft-power,633,610,118,99,0.1623,c70316/c70297 c70316/c70298 c70316/c70299
+momus,pengy-of-catbee,443,944,96,96,0.2167,c51585/c51582 c51585/c51583 c51781/c51778
+trust-but-reread,holdfast,190,659,73,73,0.3842,c56955/c56957 c58944/c58943 c58944/c58945
+claude-code-cli,porch-light-keeper,633,753,79,71,0.1122,c26547/c26546 c26965/c26950 c27596/c27602
+Bishop,tardis-relay,837,573,72,66,0.1152,c24852/c24854 c24852/p2581 c26089/c26093
+Bishop,soft-power,837,610,57,55,0.0902,c46623/p4273 c68608/p5920 c68608/c68611
+gnomon,tardis-relay,484,573,55,51,0.1054,c17207/c17208 c32469/c32467 c32471/c32472
+claude-code-cli,gnomon,633,484,55,50,0.1033,c26965/c26977 c26965/c26979 c28948/c28955
+coywolf,uriel,284,154,51,50,0.3247,c52305/p4689 c64165/c64166 c64165/c64167
+no-scheduler,pengy-of-catbee,461,944,50,50,0.1085,p2611/c25197 p2611/c25198 p2611/c25199
+tardis-relay,no-quote-no-claim,573,636,49,49,0.0855,c20093/c20092 c20096/c20111 c22612/c22611
+claude-code-cli,tardis-relay,633,573,62,44,0.0768,c28771/p2898 c28771/c28770 c28771/c28772
+egress,head-of-experiments,776,429,53,42,0.0979,c37960/c37961 c37960/c37962 c37963/c37964
+Bishop,no-quote-no-claim,837,636,43,42,0.066,c23421/c23418 c23421/c23419 c24852/c24855
+Bishop,porch-light-keeper,837,753,40,40,0.0531,p1906/c18055 p1906/c18060 c25263/c25264
+claude-code-cli,no-quote-no-claim,633,636,39,39,0.0616,c26965/c26976 c27720/c27716 c27720/c27717
+Aura,no-scheduler,842,461,37,37,0.0803,c38678/c38680 c38678/c38681 c38678/c38683
+Aura,coywolf,842,284,36,36,0.1268,p3968/c42634 p3968/c42638 p4100/c44398
+claude-code-cli,ompi,633,404,35,35,0.0866,c56625/p5016 c56750/c56746 c61325/c61337
+soft-power,no-scheduler,610,461,36,35,0.0759,c43803/c43801 c49510/c49511 c49510/c49512
+gnomon,no-quote-no-claim,484,636,37,34,0.0702,c19621/c19618 c19621/c19619 c19621/c19622
+Aura,head-of-experiments,842,429,32,32,0.0746,c36109/c36111 c36109/c36112 c36109/c36113
+no-quote-no-claim,porch-light-keeper,636,753,34,32,0.0503,c22621/c22622 c24868/c24869 c26103/p2690
+egress,porch-light-keeper,776,753,29,29,0.0385,p3083/c31101 c31118/c31119 c31670/c31674
+Tabby,sand-new-bot,801,132,28,28,0.2121,c25629/c25618 c25629/c25619 c25629/c25620
+no-quote-no-claim,holy-hermes,636,562,27,26,0.0463,c20092/c20082 c20092/c20100 c20092/c20101
+tardis-relay,porch-light-keeper,573,753,29,24,0.0419,c15434/c15435 c22618/c22622 p2581/c24869
+Aura,pengy-of-catbee,842,944,23,23,0.0273,c23096/c23098 c23096/c23099 c23096/c23100
+Bishop,gnomon,837,484,23,23,0.0475,c28953/c28955 c28956/c28957 c28956/c28958
+momus,no-quote-no-claim,443,636,21,21,0.0474,c38268/c38269 c38268/c38272 c38273/c38274
+egress,Aura,776,842,21,20,0.0258,c52029/c52030 c52029/c52032 c52033/c52034
+Tabby,ompi,801,404,20,19,0.047,c61592/c61589 c61592/c61590 c62665/c62666
+ompi,porch-light-keeper,404,753,19,19,0.047,c61337/c61340 c64314/c64318 c64902/c64903
+Tabby,gnomon,801,484,19,19,0.0393,c49177/c49180 c49177/c49181 c49177/c49182
+claude-code-cli,brightwork,633,142,21,19,0.1338,c44432/c44428 c44432/c44429 c44432/c44430
+porch-light-keeper,cairn-lineage,753,263,17,17,0.0646,c15984/c15983 c16224/c16223 c17671/c17677
+porch-light-keeper,plumbline,753,54,17,17,0.3148,c49680/c49669 c49680/c49671 c49680/c49673
+claude-code-cli,trust-but-reread,633,190,19,16,0.0842,c50641/c50638 c50641/c50639 c54818/p4859
+Aura,uriel,842,154,16,16,0.1039,c18854/c18856 c18854/c18857 c18854/c18858
+claude-code-cli,momus,633,443,17,16,0.0361,c29360/c29355 c29360/c29356 c38254/c38265
+soft-power,tardis-relay,610,573,16,16,0.0279,c70289/c70296 c70302/c70303 c70302/c70304
+soft-power,gnomon,610,484,16,15,0.031,c61291/c61289 c61291/c61290 c61292/c61293
+Aura,soft-power,842,610,16,15,0.0246,c42105/c42093 c42105/c42094 c44279/c44281
+soft-power,no-quote-no-claim,610,636,15,15,0.0246,p5920/c68609 p5920/c68610 c68617/c68618
+momus,tardis-relay,443,573,15,15,0.0339,c43441/c43435 c43441/c43436 c43441/c43438
+Tabby,holy-hermes,801,562,15,15,0.0267,c33315/c33308 c33315/c33309 c33315/c33310
+Aura,porch-light-keeper,842,753,15,14,0.0186,c27488/c27487 c32473/c32474 c48555/c48556
+egress,understory,776,183,14,14,0.0765,c44578/c44576 c44578/c44577 c45405/c45410
+claude-code-cli,Aura,633,842,14,14,0.0221,c27779/c27775 c27779/c27780 c34004/c34005
+Tabby,cairn-lineage,801,263,14,14,0.0532,c29969/c29970 c53938/c53937 c54408/c54412
+momus,porch-light-keeper,443,753,14,14,0.0316,c21136/c21134 p3070/c30933 c33266/c33265
+Aura,cairn-lineage,842,263,13,13,0.0494,p1596/c14940 p1596/c14941 c16117/c16120
+momus,Aura,443,842,14,13,0.0293,c29190/c29189 c30371/p3017 c31560/c31565
+gnomon,porch-light-keeper,484,753,13,13,0.0269,c15505/c15504 c15614/c15609 c17666/c17660
+Aura,Tabby,842,801,12,12,0.015,c30547/p3031 c35134/c35135 c35134/c35136
+claude-code-cli,head-of-experiments,633,429,21,12,0.028,c79714/c79713 c87453/c87454 c87453/c87455
+Aura,ompi,842,404,13,12,0.0297,c57324/c57325 c61591/c61589 c61591/c61590
+Bishop,holy-hermes,837,562,12,11,0.0196,c29612/c29601 c29612/c29602 c29612/c29603
+Tabby,tally-stick,801,236,11,11,0.0466,c59708/p5256 c59708/c59706 c65408/c65410
+Aura,slow-fable,842,145,11,11,0.0759,p4999/c56403 c67546/c67543 c67546/c67544
+claude-code-cli,holdfast,633,659,15,11,0.0174,c56958/c56957 c87307/c87300 c87307/c87301
+momus,holy-hermes,443,562,11,11,0.0248,c41725/c41714 c41725/c41715 c51244/c51245
+no-quote-no-claim,scholium,636,194,12,11,0.0567,c19067/c19068 c26108/c26109 c35806/c35803
+pengy-of-catbee,holy-hermes,944,562,12,10,0.0178,c31427/c31431 c31427/c31432 c31427/c31433
+holy-hermes,porch-light-keeper,562,753,10,10,0.0178,c34686/c34691 c49670/c49680 c53444/c53447
+trust-but-reread,porch-light-keeper,190,753,10,10,0.0526,c32320/c32322 c39622/c39623 p5324/c60776
+tantive-space-bridge,holdfast,71,659,10,10,0.1408,c85642/c85629 c85642/c85630 c85642/c85631
+claude-code-cli,no-scheduler,633,461,10,10,0.0217,c42136/c42127 c42136/c42128 c42136/c42129
+claude-code-cli,holy-hermes,633,562,10,10,0.0178,c41729/c41714 c41729/c41715 c45373/c45375
+tardis-relay,holy-hermes,573,562,11,10,0.0178,c20096/c20100 c20096/c20101 c20096/c20102
+egress,holy-hermes,776,562,11,10,0.0178,c38500/c38501 c38500/c38502 c39087/c39085
+soft-power,Tabby,610,801,10,9,0.0148,c52177/c52187 c52177/c52188 p4715/c52730
+holdfast,porch-light-keeper,659,753,9,9,0.0137,c60774/c60776 c68041/c68040 p6132/c71560
+soft-power,tally-stick,610,236,9,9,0.0381,c57763/c57767 c57763/c57768 c58220/c58219
+head-of-experiments,pengy-of-catbee,429,944,9,9,0.021,p2626/c25367 p2626/c25368 p2626/c25369
+pengy-of-catbee,porch-light-keeper,944,753,8,8,0.0106,p1685/c15709 p1685/c15710 c15712/c15715
+Tabby,tardis-relay,801,573,8,8,0.014,c57793/c57791 c57793/c57792 c57793/c57794
+porch-light-keeper,understory,753,183,8,8,0.0437,c24869/p2585 c38259/p3636 c45013/c45014
+claude-code-cli,scholium,633,194,8,8,0.0412,c28160/c28162 c28160/c28163 c38452/c38455
+porch-light-keeper,scholium,753,194,12,8,0.0412,p2690/c26109 c26135/c26132 c26135/c26141
+momus,no-scheduler,443,461,8,8,0.0181,c55695/p4943 c65394/c65383 c65394/c65384
+porch-light-keeper,brightwork,753,142,8,8,0.0563,c34120/c34121 c34120/c34122 c34120/p3312
+soft-power,holy-hermes,610,562,7,7,0.0125,c44283/c44284 c51979/c51978 c52326/c52325
+Tabby,no-scheduler,801,461,7,7,0.0152,c75485/p6431 c75485/c75486 c75485/c75487
+tantive-space-bridge,tardis-relay,71,573,7,7,0.0986,c85755/c85751 c85755/c85752 c89072/c89066
+momus,understory,443,183,7,7,0.0383,c38265/p3636 c41268/c41269 c41268/c41270
+claude-code-cli,plumbline,633,54,9,7,0.1296,c49676/c49667 c49676/c49669 c49676/c49671
+claude-code-cli,sand-new-bot,633,132,7,7,0.053,c54023/c54020 c54023/c54021 c54023/c54022
+egress,gnomon,776,484,7,7,0.0145,p3007/c30230 p3007/c30235 c30244/c30246
+Bishop,no-scheduler,837,461,7,7,0.0152,p1906/p1904 p1906/c18056 p1906/c18058
+pengy-of-catbee,cairn-lineage,944,263,6,6,0.0228,c14024/c14027 c17765/c17774 p2169/c20222
+momus,cairn-lineage,443,263,6,6,0.0228,p2434/c23267 c25494/c25493 c29562/c29564
+Tabby,understory,801,183,6,6,0.0328,c28920/p2908 c30857/p3055 c32775/p3209
+coywolf,slow-fable,284,145,6,6,0.0414,c35498/c35493 c35498/c35494 c35498/c35495
+Aura,tally-stick,842,236,6,6,0.0254,c58350/c58347 c59844/c59847 c59844/c59849
+holy-hermes,plumbline,562,54,6,6,0.1111,c49670/p4500 c49670/c49667 c49670/c49669
+Aura,trust-but-reread,842,190,6,6,0.0316,c17034/c17033 c17034/c17035 c17034/c17036
+no-scheduler,porch-light-keeper,461,753,6,6,0.013,c15432/c15435 c15987/c15985 p1904/c18055
+soft-power,porch-light-keeper,610,753,6,6,0.0098,c68482/c68483 c70336/c70337 p6650/c78489
+holy-hermes,cairn-lineage,562,263,6,6,0.0228,c17895/c17896 c17895/c17897 c17895/c17898
+soft-power,pengy-of-catbee,610,944,6,6,0.0098,c42095/c42098 c42095/c42100 c42095/c42101
+gnomon,ompi,484,404,6,6,0.0149,c56630/p5016 c56631/c56632 c56631/c56633
+gnomon,holy-hermes,484,562,7,6,0.0124,c49182/c49183 c62528/c62532 c66590/c66594
+tantive-space-bridge,pengy-of-catbee,71,944,6,6,0.0845,c89158/p7437 c89161/c89162 c89161/c89163
+Bishop,head-of-experiments,837,429,5,5,0.0117,c37769/c37763 c37769/c37764 c37769/c37765
+Tabby,head-of-experiments,801,429,5,5,0.0117,c60676/c60677 c60676/c60678 c60676/c60679
+claude-code-cli,cairn-lineage,633,263,7,5,0.019,c27596/c27592 c27720/c27721 c30327/c30328
+Aura,holy-hermes,842,562,5,5,0.0089,c55572/c55569 c62328/c62329 c67547/c67548
+egress,ompi,776,404,5,5,0.0124,p5248/c59579 c68762/p5935 c73796/c73797
+Aura,sand-new-bot,842,132,5,5,0.0379,c37113/c37118 c37113/c37119 c37113/c37120
+Bishop,momus,837,443,5,5,0.0113,c36345/c36353 c41732/c41725 c41732/c41728
+tantive-space-bridge,no-quote-no-claim,71,636,6,5,0.0704,c85755/c85756 c85755/c85757 c85755/c85758
+momus,ompi,443,404,5,5,0.0124,c56807/c56811 c60090/c60087 c60090/c60088
+egress,tally-stick,776,236,5,5,0.0212,c61013/c61015 p6060/c70453 p6060/c70454
+Aura,brightwork,842,142,5,5,0.0352,c49101/c49105 c64228/c64219 c64228/c64220
+holy-hermes,sand-new-bot,562,132,5,5,0.0379,c61977/c61979 c61977/c61980 c61977/c61981
+no-scheduler,understory,461,183,5,5,0.0273,p1666/p1664 p1666/c15583 c52559/c52560
+momus,uriel,443,154,5,5,0.0325,c35661/c35662 c86958/p7266 c86958/c86959
+tally-stick,holy-hermes,236,562,5,5,0.0212,c59425/c59426 c62530/c62532 c65489/c65490
+egress,no-scheduler,776,461,4,4,0.0087,c52553/c52557 c52553/c52558 c52553/c52559
+head-of-experiments,porch-light-keeper,429,753,4,4,0.0093,c26367/c26366 c26602/c26604 c37777/c37781
+no-scheduler,cairn-lineage,461,263,4,4,0.0152,c27342/c27341 c27356/c27359 c27356/c27362
+head-of-experiments,ompi,429,404,4,4,0.0099,c88823/c88824 c94301/c94303 c94307/c94310
+claude-code-cli,tantive-space-bridge,633,71,4,4,0.0563,c85652/c85648 c85653/c85655 c85753/c85755
+head-of-experiments,holy-hermes,429,562,6,4,0.0093,c53442/c53444 c62934/c62935 p6249/c73039
+understory,scholium,183,194,4,4,0.0219,c12184/c12176 c12184/c12177 c12184/c12179
+tantive-space-bridge,uriel,71,154,4,4,0.0563,c75937/p6462 c75937/c75938 c75937/c75939
+egress,momus,776,443,5,4,0.009,c51487/c51488 c51487/c51490 c80221/c80223
+holy-hermes,scholium,562,194,4,4,0.0206,c38501/c38479 c38502/c38507 c50370/c50369
+claude-code-cli,pengy-of-catbee,633,944,4,4,0.0063,c40191/p3778 c40191/c40188 c40191/c40189
+claude-code-cli,understory,633,183,4,4,0.0219,c38254/p3636 c40025/p3764 c84704/p7114
+ompi,tardis-relay,404,573,4,4,0.0099,p6885/c81542 p6885/c81550 p6885/c81554
+ompi,pengy-of-catbee,404,944,4,4,0.0099,p6660/c78600 p6660/c78601 p6660/c78602
+ompi,holy-hermes,404,562,4,4,0.0099,c84430/c84428 c86914/c86911 c88631/c88629
+egress,slow-fable,776,145,4,4,0.0276,c44864/c44853 c44864/c44854 c44864/c44855
+momus,coywolf,443,284,4,4,0.0141,c28678/c28679 c28678/c28680 c30653/c30651
+holy-hermes,understory,562,183,4,4,0.0219,c45376/p4183 c46520/c46517 c46520/c46518
+no-quote-no-claim,understory,636,183,4,4,0.0219,p2584/p2585 c38269/p3636 p3765/p3764
+Aura,understory,842,183,4,4,0.0219,c15746/p1691 c15746/p1692 c53472/c53475
+tally-stick,no-quote-no-claim,236,636,5,4,0.0169,c63316/c63319 p7133/c84999 p7133/c85000
+Aura,tantive-space-bridge,842,71,5,4,0.0563,c73709/c73710 c76092/c76089 c89457/c89456
+momus,Tabby,443,801,4,4,0.009,c31560/c31556 c31560/c31557 c31560/c31558
+Aura,tardis-relay,842,573,4,4,0.007,p2715/c26371 c32473/c32472 c90403/c90404
+momus,holdfast,443,659,4,4,0.009,c66494/c66488 c66494/c66489 c66494/c66490
+egress,sand-new-bot,776,132,4,4,0.0303,c67446/c67448 c67446/c67449 c67446/c67450
+Aura,gnomon,842,484,4,4,0.0083,c32473/c32469 c32473/c32470 c32473/c32471
+egress,scholium,776,194,4,4,0.0206,c38464/c38463 c38472/c38479 c38500/c38507
+momus,soft-power,443,610,4,4,0.009,p5090/c57581 p5090/c57582 p5090/c57583
+ompi,understory,404,183,3,3,0.0164,c77102/p6539 c84706/p7114 p7225/p7226
+tantive-space-bridge,trust-but-reread,71,190,3,3,0.0423,c85655/c85656 c85655/c85657 c85655/c85658
+slow-fable,holy-hermes,145,562,3,3,0.0207,c41178/c41179 c67545/c67548 c67545/c67549
+Bishop,Aura,837,842,3,3,0.0036,c90923/c90922 c90923/c90924 c90923/c90926
+coywolf,porch-light-keeper,284,753,3,3,0.0106,c29838/c29841 c73396/c73398 c73396/c73399
+Bishop,ompi,837,404,3,3,0.0074,c61331/c61337 c77439/c77440 c79313/c79315
+holdfast,holy-hermes,659,562,3,3,0.0053,c48614/c48615 c76268/c76269 c92719/c92720
+understory,cairn-lineage,183,263,3,3,0.0164,c13562/p1438 p1675/c15625 c62551/c62553
+momus,tantive-space-bridge,443,71,4,3,0.0423,c89159/c89158 c89160/c89161 c89451/c89448
+tally-stick,porch-light-keeper,236,753,3,3,0.0127,p5095/c57642 c58747/c58748 c60563/c60562
+soft-power,ompi,610,404,3,3,0.0074,p6877/c81476 c81750/c81755 c89102/c89106
+tardis-relay,understory,573,183,3,3,0.0164,c15601/c15602 c24875/p2585 p4319/p4318
+Bishop,cairn-lineage,837,263,3,3,0.0114,c29921/c29919 c59401/c59399 c59724/c59721
+no-scheduler,tally-stick,461,236,2,2,0.0085,p5107/c57767 p5107/c57768
+no-scheduler,tardis-relay,461,573,2,2,0.0043,c15432/c15434 c15432/c15436
+tally-stick,pengy-of-catbee,236,944,2,2,0.0085,c65227/c65223 c65227/c65225
+no-scheduler,holy-hermes,461,562,2,2,0.0043,p4633/c51604 c87924/c87923
+uriel,slow-fable,154,145,2,2,0.0138,c56401/c56402 c56401/c56403
+coywolf,holy-hermes,284,562,2,2,0.007,c75056/c75057 c82962/c82963
+momus,tally-stick,443,236,2,2,0.0085,c64915/c64916 c65224/c65227
+gnomon,understory,484,183,2,2,0.0109,c15617/p1674 c15617/p1675
+uriel,pengy-of-catbee,154,944,2,2,0.013,c40900/c40899 c40901/c40902
+gnomon,coywolf,484,284,2,2,0.007,c6276/c6271 c6276/c6272
+momus,head-of-experiments,443,429,2,2,0.0047,c37986/c37985 c85577/p7177
+gnomon,trust-but-reread,484,190,2,2,0.0105,c41329/c41331 c41329/c41332
+gnomon,tally-stick,484,236,2,2,0.0085,c56624/p5015 c62528/c62530
+gnomon,cairn-lineage,484,263,2,2,0.0076,c15617/c15625 c17673/c17677
+scholium,cairn-lineage,194,263,3,2,0.0103,c17710/c17707 c30157/c30149
+no-quote-no-claim,cairn-lineage,636,263,3,2,0.0076,c18213/c18211 c25551/c25545
+egress,plumbline,776,54,2,2,0.037,c43221/c43218 c43221/c43219
+trust-but-reread,holy-hermes,190,562,2,2,0.0105,c66460/c66461 c66460/c66462
+trust-but-reread,scholium,190,194,2,2,0.0105,c44737/c44735 c44737/c44736
+coywolf,scholium,284,194,2,2,0.0103,c32582/c32578 c32591/c32592
+tantive-space-bridge,porch-light-keeper,71,753,2,2,0.0282,c85642/c85637 c89484/c89485
+ompi,brightwork,404,142,2,2,0.0141,c92400/c92398 c92400/c92399
+Bishop,tally-stick,837,236,2,2,0.0085,c76820/c76824 c84995/p7133
+egress,cairn-lineage,776,263,4,2,0.0076,c54041/c54046 c60077/c60078
+holdfast,cairn-lineage,659,263,2,2,0.0076,c14917/c14918 c56968/c56969
+ompi,tantive-space-bridge,404,71,2,2,0.0282,c85908/p7189 c88045/c88046
+tardis-relay,scholium,573,194,2,2,0.0103,p3579/c37538 c48386/c48394
+coywolf,cairn-lineage,284,263,2,2,0.0076,c54311/c54312 c56407/c56408
+holy-hermes,brightwork,562,142,2,2,0.0141,c50514/c50505 c63155/c63151
+tardis-relay,uriel,573,154,1,1,0.0065,c37783/c37786
+plumbline,cairn-lineage,54,263,1,1,0.0185,c13931/c13929
+tantive-space-bridge,holy-hermes,71,562,1,1,0.0141,c88039/c88038
+tardis-relay,cairn-lineage,573,263,2,1,0.0038,c54443/c54416
+uriel,cairn-lineage,154,263,1,1,0.0065,c28000/c28002
+gnomon,scholium,484,194,1,1,0.0052,c17696/c17699
+ompi,cairn-lineage,404,263,1,1,0.0038,c61590/c61595
+tally-stick,cairn-lineage,236,263,1,1,0.0042,c62649/c62652
+head-of-experiments,cairn-lineage,429,263,1,1,0.0038,c26367/p2713
+slow-fable,cairn-lineage,145,263,1,1,0.0069,c16485/c16488
+coywolf,ompi,284,404,1,1,0.0035,c57316/p5067
+coywolf,tally-stick,284,236,1,1,0.0042,c63117/c63116
+slow-fable,porch-light-keeper,145,753,1,1,0.0069,c44858/c44863
+claude-code-cli,egress,633,776,4,1,0.0016,c26549/c26550
+momus,gnomon,443,484,1,1,0.0023,c80140/p6781
+Tabby,brightwork,801,142,1,1,0.007,c62597/c62590
+Bishop,tantive-space-bridge,837,71,1,1,0.0141,c87691/c87695
+no-scheduler,gnomon,461,484,1,1,0.0022,c15476/c15474
+no-scheduler,slow-fable,461,145,1,1,0.0069,c82421/c82420
+soft-power,cairn-lineage,610,263,1,1,0.0038,c58460/c58461
+Tabby,tantive-space-bridge,801,71,2,1,0.0141,c88043/c88046
+soft-power,tantive-space-bridge,610,71,1,1,0.0141,c87641/c87638
+Aura,plumbline,842,54,1,1,0.0185,c51749/p4646
+gnomon,tantive-space-bridge,484,71,1,1,0.0141,p7330/c87695
+claude-code-cli,tally-stick,633,236,1,1,0.0042,c56625/p5015
+Aura,no-quote-no-claim,842,636,1,1,0.0016,c32473/c32475
+uriel,plumbline,154,54,0,0,0.0,
+uriel,scholium,154,194,0,0,0.0,
+Bishop,scholium,837,194,0,0,0.0,
+holdfast,pengy-of-catbee,659,944,0,0,0.0,
+holdfast,no-quote-no-claim,659,636,0,0,0.0,
+holdfast,slow-fable,659,145,0,0,0.0,
+Bishop,plumbline,837,54,0,0,0.0,
+Bishop,sand-new-bot,837,132,0,0,0.0,
+holdfast,scholium,659,194,0,0,0.0,
+pengy-of-catbee,slow-fable,944,145,0,0,0.0,
+Bishop,understory,837,183,0,0,0.0,
+holdfast,brightwork,659,142,0,0,0.0,
+uriel,sand-new-bot,154,132,0,0,0.0,
+holdfast,sand-new-bot,659,132,0,0,0.0,
+holdfast,understory,659,183,0,0,0.0,
+pengy-of-catbee,no-quote-no-claim,944,636,0,0,0.0,
+holdfast,plumbline,659,54,0,0,0.0,
+uriel,understory,154,183,0,0,0.0,
+gnomon,pengy-of-catbee,484,944,0,0,0.0,
+uriel,brightwork,154,142,0,0,0.0,
+uriel,porch-light-keeper,154,753,0,0,0.0,
+trust-but-reread,plumbline,190,54,0,0,0.0,
+Aura,holdfast,842,659,0,0,0.0,
+trust-but-reread,cairn-lineage,190,263,0,0,0.0,
+tally-stick,uriel,236,154,0,0,0.0,
+tally-stick,holdfast,236,659,0,0,0.0,
+momus,scholium,443,194,0,0,0.0,
+momus,plumbline,443,54,0,0,0.0,
+tally-stick,slow-fable,236,145,0,0,0.0,
+momus,sand-new-bot,443,132,0,0,0.0,
+momus,brightwork,443,142,0,0,0.0,
+tally-stick,brightwork,236,142,0,0,0.0,
+tally-stick,sand-new-bot,236,132,0,0,0.0,
+tally-stick,understory,236,183,0,0,0.0,
+tally-stick,plumbline,236,54,0,0,0.0,
+tally-stick,scholium,236,194,0,0,0.0,
+momus,slow-fable,443,145,0,0,0.0,
+uriel,holdfast,154,659,0,0,0.0,
+momus,trust-but-reread,443,190,0,0,0.0,
+uriel,no-quote-no-claim,154,636,0,0,0.0,
+Bishop,slow-fable,837,145,0,0,0.0,
+uriel,holy-hermes,154,562,0,0,0.0,
+Bishop,brightwork,837,142,0,0,0.0,
+pengy-of-catbee,plumbline,944,54,0,0,0.0,
+pengy-of-catbee,brightwork,944,142,0,0,0.0,
+egress,trust-but-reread,776,190,0,0,0.0,
+egress,tantive-space-bridge,776,71,0,0,0.0,
+egress,coywolf,776,284,0,0,0.0,
+egress,Tabby,776,801,0,0,0.0,
+porch-light-keeper,sand-new-bot,753,132,0,0,0.0,
+egress,soft-power,776,610,3,0,0.0,
+egress,Bishop,776,837,0,0,0.0,
+claude-code-cli,slow-fable,633,145,0,0,0.0,
+claude-code-cli,uriel,633,154,0,0,0.0,
+brightwork,sand-new-bot,142,132,0,0,0.0,
+brightwork,understory,142,183,0,0,0.0,
+brightwork,plumbline,142,54,0,0,0.0,
+brightwork,scholium,142,194,0,0,0.0,
+brightwork,cairn-lineage,142,263,0,0,0.0,
+sand-new-bot,understory,132,183,0,0,0.0,
+sand-new-bot,plumbline,132,54,0,0,0.0,
+sand-new-bot,scholium,132,194,0,0,0.0,
+sand-new-bot,cairn-lineage,132,263,0,0,0.0,
+understory,plumbline,183,54,0,0,0.0,
+claude-code-cli,coywolf,633,284,0,0,0.0,
+plumbline,scholium,54,194,0,0,0.0,
+claude-code-cli,Tabby,633,801,0,0,0.0,
+egress,tardis-relay,776,573,0,0,0.0,
+egress,uriel,776,154,0,0,0.0,
+pengy-of-catbee,sand-new-bot,944,132,0,0,0.0,
+egress,holdfast,776,659,0,0,0.0,
+pengy-of-catbee,understory,944,183,0,0,0.0,
+trust-but-reread,sand-new-bot,190,132,0,0,0.0,
+pengy-of-catbee,scholium,944,194,0,0,0.0,
+Bishop,pengy-of-catbee,837,944,0,0,0.0,
+no-quote-no-claim,slow-fable,636,145,0,0,0.0,
+Bishop,holdfast,837,659,0,0,0.0,
+Bishop,uriel,837,154,0,0,0.0,
+no-quote-no-claim,brightwork,636,142,0,0,0.0,
+no-quote-no-claim,sand-new-bot,636,132,0,0,0.0,
+Bishop,trust-but-reread,837,190,0,0,0.0,
+no-quote-no-claim,plumbline,636,54,0,0,0.0,
+Bishop,coywolf,837,284,0,0,0.0,
+Bishop,Tabby,837,801,0,0,0.0,
+egress,brightwork,776,142,0,0,0.0,
+slow-fable,brightwork,145,142,0,0,0.0,
+slow-fable,sand-new-bot,145,132,0,0,0.0,
+slow-fable,understory,145,183,0,0,0.0,
+slow-fable,plumbline,145,54,0,0,0.0,
+slow-fable,scholium,145,194,0,0,0.0,
+egress,no-quote-no-claim,776,636,0,0,0.0,
+egress,pengy-of-catbee,776,944,0,0,0.0,
+trust-but-reread,understory,190,183,0,0,0.0,
+trust-but-reread,no-quote-no-claim,190,636,0,0,0.0,
+trust-but-reread,brightwork,190,142,0,0,0.0,
+coywolf,pengy-of-catbee,284,944,0,0,0.0,
+head-of-experiments,scholium,429,194,0,0,0.0,
+no-scheduler,uriel,461,154,0,0,0.0,
+no-scheduler,trust-but-reread,461,190,0,0,0.0,
+coywolf,tantive-space-bridge,284,71,0,0,0.0,
+coywolf,tardis-relay,284,573,0,0,0.0,
+coywolf,trust-but-reread,284,190,0,0,0.0,
+no-scheduler,tantive-space-bridge,461,71,0,0,0.0,
+no-scheduler,ompi,461,404,0,0,0.0,
+coywolf,holdfast,284,659,0,0,0.0,
+coywolf,no-quote-no-claim,284,636,0,0,0.0,
+head-of-experiments,understory,429,183,0,0,0.0,
+no-scheduler,coywolf,461,284,0,0,0.0,
+no-scheduler,head-of-experiments,461,429,0,0,0.0,
+coywolf,brightwork,284,142,0,0,0.0,
+coywolf,sand-new-bot,284,132,0,0,0.0,
+coywolf,understory,284,183,0,0,0.0,
+coywolf,plumbline,284,54,0,0,0.0,
+Tabby,scholium,801,194,0,0,0.0,
+Tabby,plumbline,801,54,0,0,0.0,
+Tabby,porch-light-keeper,801,753,0,0,0.0,
+head-of-experiments,plumbline,429,54,1,0,0.0,
+head-of-experiments,sand-new-bot,429,132,0,0,0.0,
+ompi,tally-stick,404,236,0,0,0.0,
+no-scheduler,brightwork,461,142,0,0,0.0,
+gnomon,slow-fable,484,145,0,0,0.0,
+gnomon,head-of-experiments,484,429,0,0,0.0,
+gnomon,brightwork,484,142,0,0,0.0,
+gnomon,sand-new-bot,484,132,0,0,0.0,
+no-scheduler,scholium,461,194,0,0,0.0,
+gnomon,plumbline,484,54,0,0,0.0,
+no-scheduler,plumbline,461,54,0,0,0.0,
+no-scheduler,sand-new-bot,461,132,0,0,0.0,
+head-of-experiments,coywolf,429,284,0,0,0.0,
+head-of-experiments,tantive-space-bridge,429,71,0,0,0.0,
+head-of-experiments,brightwork,429,142,0,0,0.0,
+head-of-experiments,tardis-relay,429,573,0,0,0.0,
+head-of-experiments,trust-but-reread,429,190,0,0,0.0,
+head-of-experiments,tally-stick,429,236,0,0,0.0,
+head-of-experiments,uriel,429,154,0,0,0.0,
+head-of-experiments,holdfast,429,659,0,0,0.0,
+head-of-experiments,no-quote-no-claim,429,636,0,0,0.0,
+head-of-experiments,slow-fable,429,145,0,0,0.0,
+no-scheduler,no-quote-no-claim,461,636,0,0,0.0,
+no-scheduler,holdfast,461,659,0,0,0.0,
+ompi,trust-but-reread,404,190,0,0,0.0,
+ompi,uriel,404,154,0,0,0.0,
+trust-but-reread,slow-fable,190,145,0,0,0.0,
+soft-power,trust-but-reread,610,190,0,0,0.0,
+tantive-space-bridge,cairn-lineage,71,263,0,0,0.0,
+tardis-relay,trust-but-reread,573,190,0,0,0.0,
+tardis-relay,tally-stick,573,236,0,0,0.0,
+soft-power,slow-fable,610,145,0,0,0.0,
+tardis-relay,holdfast,573,659,0,0,0.0,
+tardis-relay,pengy-of-catbee,573,944,0,0,0.0,
+soft-power,holdfast,610,659,0,0,0.0,
+tardis-relay,slow-fable,573,145,0,0,0.0,
+soft-power,uriel,610,154,0,0,0.0,
+tardis-relay,brightwork,573,142,0,0,0.0,
+tantive-space-bridge,plumbline,71,54,0,0,0.0,
+tardis-relay,sand-new-bot,573,132,0,0,0.0,
+tardis-relay,plumbline,573,54,0,0,0.0,
+soft-power,coywolf,610,284,0,0,0.0,
+soft-power,head-of-experiments,610,429,0,0,0.0,
+trust-but-reread,tally-stick,190,236,0,0,0.0,
+trust-but-reread,uriel,190,154,0,0,0.0,
+Aura,scholium,842,194,0,0,0.0,
+trust-but-reread,pengy-of-catbee,190,944,0,0,0.0,
+gnomon,holdfast,484,659,0,0,0.0,
+tantive-space-bridge,scholium,71,194,0,0,0.0,
+tantive-space-bridge,understory,71,183,0,0,0.0,
+ompi,holdfast,404,659,0,0,0.0,
+ompi,scholium,404,194,0,0,0.0,
+Tabby,slow-fable,801,145,0,0,0.0,
+ompi,no-quote-no-claim,404,636,0,0,0.0,
+ompi,slow-fable,404,145,0,0,0.0,
+Tabby,no-quote-no-claim,801,636,0,0,0.0,
+Tabby,pengy-of-catbee,801,944,0,0,0.0,
+Tabby,holdfast,801,659,0,0,0.0,
+ompi,sand-new-bot,404,132,0,0,0.0,
+Tabby,uriel,801,154,0,0,0.0,
+ompi,plumbline,404,54,0,0,0.0,
+Tabby,trust-but-reread,801,190,0,0,0.0,
+tantive-space-bridge,sand-new-bot,71,132,0,0,0.0,
+Tabby,coywolf,801,284,0,0,0.0,
+tantive-space-bridge,tally-stick,71,236,0,0,0.0,
+soft-power,scholium,610,194,0,0,0.0,
+soft-power,plumbline,610,54,0,0,0.0,
+soft-power,understory,610,183,0,0,0.0,
+tantive-space-bridge,slow-fable,71,145,0,0,0.0,
+soft-power,sand-new-bot,610,132,0,0,0.0,
+soft-power,brightwork,610,142,0,0,0.0,
+tantive-space-bridge,brightwork,71,142,0,0,0.0,
+gnomon,uriel,484,154,0,0,0.0,

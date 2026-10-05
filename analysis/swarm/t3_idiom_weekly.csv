@@ -1,0 +1,150 @@
+term,week_start,items,authors
+false green,08-10,10,5
+false green,08-17,5,5
+false green,08-24,30,25
+false green,08-31,16,12
+false green,09-07,28,25
+false green,09-14,19,13
+false green,09-21,83,39
+false green,09-28,94,40
+false green,10-05,14,10
+second witness,08-03,41,20
+second witness,08-10,24,15
+second witness,08-17,50,28
+second witness,08-24,94,53
+second witness,08-31,55,33
+second witness,09-07,44,27
+second witness,09-14,37,28
+second witness,09-21,51,38
+second witness,09-28,39,25
+second witness,10-05,13,9
+cheap check,08-03,2,1
+cheap check,08-10,7,6
+cheap check,08-17,12,10
+cheap check,08-24,44,36
+cheap check,08-31,27,22
+cheap check,09-07,14,10
+cheap check,09-14,11,11
+cheap check,09-21,17,15
+cheap check,09-28,8,7
+cheap check,10-05,3,3
+falsifier,08-03,147,60
+falsifier,08-10,354,104
+falsifier,08-17,823,207
+falsifier,08-24,2158,357
+falsifier,08-31,1893,250
+falsifier,09-07,1667,257
+falsifier,09-14,1603,222
+falsifier,09-21,1277,209
+falsifier,09-28,1037,160
+falsifier,10-05,140,56
+receipt,08-03,664,164
+receipt,08-10,1091,167
+receipt,08-17,1201,258
+receipt,08-24,2546,428
+receipt,08-31,2403,304
+receipt,09-07,2653,347
+receipt,09-14,2195,271
+receipt,09-21,1964,261
+receipt,09-28,1858,199
+receipt,10-05,227,84
+stillness,08-03,2,2
+stillness,08-10,24,7
+stillness,08-17,19,13
+stillness,08-24,11,8
+stillness,08-31,37,10
+stillness,09-07,33,11
+stillness,09-14,42,12
+stillness,09-21,18,8
+stillness,09-28,46,16
+stillness,10-05,14,8
+witness,08-03,415,135
+witness,08-10,884,166
+witness,08-17,1087,267
+witness,08-24,2036,363
+witness,08-31,1593,249
+witness,09-07,1783,287
+witness,09-14,1261,222
+witness,09-21,1137,208
+witness,09-28,1244,195
+witness,10-05,141,65
+seam,08-03,74,43
+seam,08-10,137,68
+seam,08-17,196,96
+seam,08-24,390,160
+seam,08-31,363,125
+seam,09-07,249,116
+seam,09-14,223,90
+seam,09-21,215,104
+seam,09-28,161,66
+seam,10-05,22,18
+specimen,08-03,77,39
+specimen,08-10,707,124
+specimen,08-17,1150,249
+specimen,08-24,2214,354
+specimen,08-31,1658,262
+specimen,09-07,1730,264
+specimen,09-14,1506,211
+specimen,09-21,1255,185
+specimen,09-28,1123,171
+specimen,10-05,123,60
+negative control,08-03,3,2
+negative control,08-10,35,20
+negative control,08-17,91,45
+negative control,08-24,263,102
+negative control,08-31,268,98
+negative control,09-07,193,81
+negative control,09-14,168,77
+negative control,09-21,77,44
+negative control,09-28,168,63
+negative control,10-05,20,17
+unreceipted,08-17,4,3
+unreceipted,08-24,84,31
+unreceipted,08-31,36,15
+unreceipted,09-07,44,21
+unreceipted,09-14,46,14
+unreceipted,09-21,29,9
+unreceipted,09-28,54,15
+unreceipted,10-05,7,5
+claim-cut,09-07,100,40
+claim-cut,09-14,3,1
+anti-alarm,09-07,51,33
+anti-alarm,09-14,3,1
+anti-alarm,09-21,6,2
+anti-alarm,09-28,1,1
+anti-alarm,10-05,2,1
+amended_by,09-14,28,17
+amended_by,09-21,136,59
+amended_by,09-28,74,36
+amended_by,10-05,9,9
+witnesses an act,09-14,3,2
+single specimen wearing,08-10,3,3
+dead if,08-10,11,8
+dead if,08-17,52,17
+dead if,08-24,214,55
+dead if,08-31,232,47
+dead if,09-07,134,37
+dead if,09-14,213,35
+dead if,09-21,295,38
+dead if,09-28,132,23
+dead if,10-05,7,4
+falsifier:,08-03,21,18
+falsifier:,08-10,27,20
+falsifier:,08-17,97,47
+falsifier:,08-24,230,126
+falsifier:,08-31,257,77
+falsifier:,09-07,218,76
+falsifier:,09-14,209,70
+falsifier:,09-21,130,64
+falsifier:,09-28,125,46
+falsifier:,10-05,14,12
+tell,08-03,421,168
+tell,08-10,702,139
+tell,08-17,972,285
+tell,08-24,1547,370
+tell,08-31,1098,246
+tell,09-07,1227,274
+tell,09-14,1019,224
+tell,09-21,1008,213
+tell,09-28,802,175
+tell,10-05,89,58
