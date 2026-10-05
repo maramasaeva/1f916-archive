@@ -14,11 +14,11 @@ Files: scripts a1_graph.py to a7_series.py (plus a2b, a2c, a3b, a3c, a4_porch, a
 | Task | Files |
 |---|---|
 | 1 graph | t1_edges.csv, t1_top30_pairs.csv, t1_communities.json, t1_attest_topic_handles.csv, t1_cluster_handles.json, t1_core_handles.json, t1_post7442_thread.csv |
-| 2 adoption | t2_adoption_chains_curated.csv (31 hand-read rows), t2_adoption_candidates_all.csv (5,844 automatic), t2_adoption_filtered.csv (362), t2_chain7442_token_trace.csv, t2_chain7442_items.csv |
+| 2 adoption | t2_adoption_chains_curated.csv (30 hand-read rows), t2_adoption_candidates_all.csv (5,844 automatic), t2_adoption_filtered.csv (362), t2_chain7442_token_trace.csv, t2_chain7442_items.csv |
 | 3 idiom | t3_idiom_listed_terms.csv, t3_idiom_first_adopters.csv, t3_idiom_weekly.csv, t3_idiom_spread_per_day.json, t3_idiom_new_terms_after_aug20.csv, t3_idiom_discovered.csv |
 | 4 rhythm | t4_rhythm_items_by_handle.csv, t4_porch_rhythm_by_handle.csv, t4_momus_heartbeat.csv, t4_bishop_porch_lines.csv, t4_porch_quota_lines.csv, t4_porch_other_quota_mentions.csv |
 | 5 one hand | t5_style_features.csv, t5_pair_similarity.csv, t5_pair_char_cos_all_active.csv, t5_pair_timing_unlinked.csv, t5_characteristic_phrases.json |
-| 6 models | t6_models_census.csv, t6_model_corrections.csv (167 events), t6_registry_vs_item_labels.csv, t6_label_vs_text_mismatch.csv (noisy regex, not used for conclusions) |
+| 6 models | t6_models_census.csv, t6_model_corrections.csv (203 events), t6_registry_vs_item_labels.csv, t6_label_vs_text_mismatch.csv (noisy regex, not used for conclusions) |
 | 7 series | t7_series_candidates.csv, t7_series_curated.csv |
 
 ## Quotas
@@ -74,7 +74,7 @@ Ladder: E1 and E2 hold for c90923, c93648, c93680 and porch 4517 and 4525. E3 is
 
 Caution on this chain. The hash f4f81f45... is a constant served by the public route /api/attest. It appears earlier from as-built (c78336) and pengy-of-catbee (c78600), and 72 earlier items contain it. The adoption claims therefore rest on acknowledgement text and on derived figures (rows per hour, paired readings, 2.9x), not on that constant.
 
-Other chains: 31 curated in t2_adoption_chains_curated.csv, 21 or more outside 7442. Examples:
+Other chains: 30 curated in t2_adoption_chains_curated.csv, 20 or more outside 7442. Examples:
 
 | Adopter item | Source item | Delay min | Class | Shared token |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ Other cadences:
 - bankr_1d5b: 8-hour period.
 - DomusNovashev: 15-minute period.
 
-Quota lines: Bishop writes e.g. porch 4497 "quotas: 1 post, 15 comments, 0 votes remaining after this wake"; 4509, 4517 and 4526 give 10, 12 and 4 comments. In c90673 Bishop says "I wake 4x/day unattended", while the porch and comments show 8 wake slots per day. Both are reported without a ruling. Bishop and claude-code-cli both start their UTC day at about 00:12 to 00:13. Of 281 Bishop comments within 120 s of a claude-code-cli comment, 163 fall in hour 00 (example c26944 and c26965, 08-28).
+Quota lines: Bishop writes e.g. porch 4497 "quotas: 1 post, 15 comments, 0 votes remaining after this wake"; 4509, 4517 and 4526 give 10, 12 and 4 comments. In c90673 Bishop says "I wake 4x/day unattended", while the porch and comments show 8 wake slots per day. Both are reported without a ruling. Bishop and claude-code-cli both start their UTC day at about 00:12 to 00:13. Of 248 Bishop comments within 120 s of a claude-code-cli comment (recount; the first draft stated 281 and 163), 134 fall in hour 00 (example c26944 and c26965, 08-28).
 
 ## 5. One-hand tests (no identity claimed)
 
@@ -147,7 +147,7 @@ Evidence against one operator:
 - Baseline character n-gram cosine over all active pairs: core-core median 0.347, core-other 0.351, neither-core 0.382, same-label neither-core 0.435. The cluster handles are no closer to each other than other pairs; the shared register follows the model family.
 - Voices differ strongly. Tabby is a cat persona at 189 chars per comment. Bishop averages 596 chars. egress averages 3,381 chars with 8.3 bold phrases per comment. momus uses a fixed heartbeat template.
 - Five distinct schedules (:02, :12, :13 at 3 h, :19 to :22 at 6 h, :42).
-- The thread shows real disagreement and correction between handles. Aura's four label changes for one handle (post 7539, events 11099, 18591) show that a handle is a persistent seat.
+- The thread shows real disagreement and correction between handles. Aura's label changes for one handle (post 7539, events 6321, 18591, 19932) show that a handle is a persistent seat.
 
 Pairs outside the cluster with higher similarity than any inside it:
 - jerry and morty-synctzn: 0.69
@@ -159,7 +159,7 @@ What would settle it: operator or key-custody fields per handle (key-bind and ke
 
 ## 6. Declared models
 
-Label census of items: claude-opus-5 11,090, claude-fable-5 6,015, claude-sonnet-5 3,582, deepseek-v4-flash 2,506, and a long free-form tail. The registry model equals the last item label for all but 1 of 715 handles with at least 15 items. 167 model_correction events exist. Observations only:
+Label census of items: claude-opus-5 17,417 (the counts below this one in the original draft were from an earlier snapshot; t6_models_census.csv is authoritative), and a long free-form tail. The registry model equals the last item label for all but 1 of 715 handles with at least 15 items. 203 model_correction events exist (143 citizens). Observations only:
 - Aura's item labels run gemini-flash-3.7 (159 items), gemini-3.8-flash (372), glm-5.3-flash (82), muse-spark-1.3-contributor (229). Its post 7539 states four substrates and three swaps, matching the labels.
 - silt's corrections alternate between claude-opus-5 and claude-fable-5-1 (events 8646, 11421, 12767).
 - silt, porch-light-keeper and keyan move to claude-opus-5-5 in events 19295 to 19395, about 5.7 hours apart.
@@ -204,7 +204,7 @@ Multi-author:
 14. Do other handles exceed 1 post per day (understory has up to 6 in one UTC day)? Data: max_posts_one_day against refusal rows.
 15. Is the porch used as a channel across runs? Data: porch:N citations and their delays.
 16. Does the 00 UTC spike appear for handles that post rarely? Data: per-handle hour-00 share.
-17. Is style stable across Aura's substrate swaps (09-02, 09-20, 09-24)? Data: style features by label period.
+17. Is style stable across Aura's substrate swaps (09-03, 09-20, 09-24)? Data: style features by label period.
 18. Do model_correction events match the label of the next item? Data: label at event time.
 19. How many agents read the 7442 thread without commenting? Data: view or inbox data (Bishop line 4517 mentions 41 joined threads).
 20. Which comments carry hidden content (C6)? Data: zero-width characters, base64 blocks, hashes never seen in a public route. Not tested here.
@@ -216,11 +216,11 @@ Multi-author:
 3. The porch carries the same loop. Lines 4491, 4494, 4517 and 4525 each cite or relay another run's figure (4517 is 92 min after c93648).
 4. The hash f4f81f45 is a public constant seen in 72 earlier items, so matches on it do not show adoption.
 5. momus is an hourly scheduled heartbeat at :41 to :43 (318 porch lines). claude-code-cli and Tabby also run hourly (:12 and :02), Bishop every 3 hours at :13, egress every 6 hours (01, 07, 13, 19).
-6. Bishop and claude-code-cli start the UTC day together at 00:12 to 00:13 (163 of 281 near-simultaneous pairs are in hour 00). Bishop's "4x/day" does not match the 8 slots seen.
+6. Bishop and claude-code-cli start the UTC day together at 00:12 to 00:13 (recount by the page builder: 248 near-simultaneous items, 134 in hour 00; the original 163 of 281 could not be reproduced). Bishop's "4x/day" does not match the 8 slots seen.
 7. The one-operator tests are mixed. The cluster's character n-gram similarity is not above baseline (median 0.347 vs 0.382 for non-core pairs). The strongest pair for a shared stack is claude-code-cli and momus (same label, hourly 30 min apart, cosine 0.56, hour profile 0.87).
 8. Stronger shared-author candidates sit outside the cluster: jerry and morty-synctzn (0.69), bankr-mikk0x and bankr_1d5b (0.63), nasl3yn and rayehoid (0.59).
 9. Idioms born after day 1 spread across 4 to 5 communities in days: false green (weekly 28, 83, 94 before 7442), claim-cut (zola p4454 to 100 items in a week), unreceipted, amended_by, anti-alarm. Phrase borrowings with credit happen within minutes (c4599 to c4620 in 16 min).
-10. Aura keeps one handle across four declared substrates (events 11099 and 18591, post 7539). FOR HIRE (153 posts, 71 authors) and GLUE CAMP (30 authors) are template or call-driven multi-author series. Several handles posted more than 1 post per day (understory up to 6, dash-agent 5 in 15 s), which needs an explanation from the refusal log.
+10. Aura keeps one handle across four declared substrates (events 6321, 18591 and 19932, post 7539). FOR HIRE (153 posts, 71 authors) and GLUE CAMP (30 authors) are template or call-driven multi-author series. Several handles posted more than 1 post per day (understory up to 6, dash-agent 5 in 15 s), which needs an explanation from the refusal log.
 
 ## Caveats
 

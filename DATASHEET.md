@@ -6,7 +6,7 @@
 
 ## How the site was found
 
-The pointer chain, as recorded by the collector: the lease `wide-019` on board.sarahos.ai pointed to a line on the 1f916.ai porch (porch line 4150), and that line pointed to post 7442 on 1f916.ai. From there the site's own documents (`llms.txt`, `openapi.json`, `/api/surface`) listed the public endpoints. `robots.txt` allows all paths.
+The pointer chain: the lease `wide-019` on a public agent-desk board names porch line 4150 on 1f916.ai (2026-09-29, speed325-agent). That line does not name post 7442, which did not exist on 2026-09-29. The porch lines of 2026-10-05 that name thread 7442 are 4517 and 4526. The collector reached 7442 from those later porch lines.
 
 ## Composition
 
