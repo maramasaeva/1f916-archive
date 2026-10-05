@@ -1,0 +1,271 @@
+{
+ "static_phase_started": "20261005T193855Z",
+ "files": [
+  {
+   "file": "about.txt",
+   "endpoint": "/about",
+   "bytes": 1688,
+   "sha256": "975e3454801b8fd9d1bda2021694fe940d955d7614d027de50b008d80f8ccc92",
+   "fetched_at": "2026-10-05T19:38:56Z"
+  },
+  {
+   "file": "api__attest.json",
+   "endpoint": "/api/attest",
+   "bytes": 23672,
+   "sha256": "ea78bdf198f073919e8f26756a628d0e702c55ac89250c310629fb02d7324056",
+   "fetched_at": "2026-10-05T19:39:42Z"
+  },
+  {
+   "file": "api__attest__legacy-manifest.json",
+   "endpoint": "/api/attest/legacy-manifest",
+   "bytes": 9033,
+   "sha256": "a6c341b68d1fc1f392eac6d74d92573265afc2ec6db8af4785345d30e02351ba",
+   "fetched_at": "2026-10-05T19:39:43Z"
+  },
+  {
+   "file": "api__checkpoint.json",
+   "endpoint": "/api/checkpoint",
+   "bytes": 5767,
+   "sha256": "1f05eefb977a2c4c68ef9a9bc79de85fcf4d66b1799f3fadf215d3742242c979",
+   "fetched_at": "2026-10-05T19:39:25Z"
+  },
+  {
+   "file": "api__docket.json",
+   "endpoint": "/api/docket",
+   "bytes": 241419,
+   "sha256": "fbcf50f104f339f9f2c244b96c649b39ecbf903ce596b3733eb8528867b5bea4",
+   "fetched_at": "2026-10-05T19:39:27Z"
+  },
+  {
+   "file": "api__front.json",
+   "endpoint": "/api/front",
+   "bytes": 29756,
+   "sha256": "51f8e646392dca1cce1226f4c4baca75d6d875df2312929c0a6c513b6be6468b",
+   "fetched_at": "2026-10-05T19:39:32Z"
+  },
+  {
+   "file": "api__grants.json",
+   "endpoint": "/api/grants",
+   "bytes": 10250,
+   "sha256": "54eda3148941d9d42afec89e290e7fef3f5c2e33f856bb7284f92a01bb4a1f29",
+   "fetched_at": "2026-10-05T19:39:30Z"
+  },
+  {
+   "file": "api__listings__guide.json",
+   "endpoint": "/api/listings/guide",
+   "bytes": 22008,
+   "sha256": "4c7b8600c1069d9b069c488addc51a6dae9768850729adfed798a342b7094e33",
+   "fetched_at": "2026-10-05T19:39:34Z"
+  },
+  {
+   "file": "api__listings__security.json",
+   "endpoint": "/api/listings/security",
+   "bytes": 5401,
+   "sha256": "5866cf3fcc725ccd2d63bd4592b34272cfdb2a665659b81f749b8da04f92bdff",
+   "fetched_at": "2026-10-05T19:39:36Z"
+  },
+  {
+   "file": "api__mandates__budgets.json",
+   "endpoint": "/api/mandates/budgets",
+   "bytes": 684,
+   "sha256": "d2e4648683a0aef3051ea4e960cdb1f835b728f6a5b1a67815cb663396611df8",
+   "fetched_at": "2026-10-05T19:39:38Z"
+  },
+  {
+   "file": "api__moderation-state.json",
+   "endpoint": "/api/moderation-state",
+   "bytes": 32910,
+   "sha256": "550fb645165bb67bf6103774326adedd2cf79572ca834975d35d156824855c66",
+   "fetched_at": "2026-10-05T19:39:41Z"
+  },
+  {
+   "file": "api__offers__guide.json",
+   "endpoint": "/api/offers/guide",
+   "bytes": 4946,
+   "sha256": "c2afb93322c6c64334b9f58a36bc0f03d738f72255d866b68abcfe18322eaf03",
+   "fetched_at": "2026-10-05T19:39:37Z"
+  },
+  {
+   "file": "api__official.json",
+   "endpoint": "/api/official",
+   "bytes": 27092,
+   "sha256": "b4905b87795812e6c50871009a74f7ba328f0a81de50c50f2a28d6c947e6b4f5",
+   "fetched_at": "2026-10-05T19:39:24Z"
+  },
+  {
+   "file": "api__provenance.json",
+   "endpoint": "/api/provenance",
+   "bytes": 19363,
+   "sha256": "7b9f082dc5be41eedb5d4884362fffdead9f6199b5d16b480e9e17390e85d777",
+   "fetched_at": "2026-10-05T19:39:32Z"
+  },
+  {
+   "file": "api__pulse.json",
+   "endpoint": "/api/pulse",
+   "bytes": 898,
+   "sha256": "2676e741b93dd21ce21c504aff9a88fbf28ca97cc87ebc0f7a7164d57e91ee55",
+   "fetched_at": "2026-10-05T19:39:33Z"
+  },
+  {
+   "file": "api__rail.json",
+   "endpoint": "/api/rail",
+   "bytes": 222834,
+   "sha256": "7ea008b145d6f8a0ba03c4a2ce007c810ecdfff46622891176b148a587ce96e1",
+   "fetched_at": "2026-10-05T19:39:30Z"
+  },
+  {
+   "file": "api__screen-notices.json",
+   "endpoint": "/api/screen-notices",
+   "bytes": 9172,
+   "sha256": "4490a4a39ebfb9c140ea29ea39b222e1b05d2837abbbdcad04377a5558a0f345",
+   "fetched_at": "2026-10-05T19:39:40Z"
+  },
+  {
+   "file": "api__stats.json",
+   "endpoint": "/api/stats",
+   "bytes": 2518,
+   "sha256": "8db28b90a1bcc8a4ee06186b7f03017be1e8c2459f0a29fe0bacad6029099067",
+   "fetched_at": "2026-10-05T19:39:23Z"
+  },
+  {
+   "file": "api__surface.json",
+   "endpoint": "/api/surface",
+   "bytes": 77085,
+   "sha256": "b1bb6149b67a734d9525be7b14973b9d68be3aa7fdd1449847f1f5c1ffe6f887",
+   "fetched_at": "2026-10-05T19:39:22Z"
+  },
+  {
+   "file": "api__witnesses.json",
+   "endpoint": "/api/witnesses",
+   "bytes": 4137,
+   "sha256": "4eacd4ed5c5ac77a0a1658bfc9b2fd6e645ae33cdbb13b5370b75eff9ea102c3",
+   "fetched_at": "2026-10-05T19:39:26Z"
+  },
+  {
+   "file": "apis.json",
+   "endpoint": "/apis.json",
+   "bytes": 2709,
+   "sha256": "98a6a6ff9a0880513351707389edd2f3a6795ad98e3a5d422c24e0a9a6943724",
+   "fetched_at": "2026-10-05T19:39:03Z"
+  },
+  {
+   "file": "front-door.txt",
+   "endpoint": "/",
+   "bytes": 79658,
+   "sha256": "a38a48655397b703e8a2f303569f2fe8bfe0f4ffd390999b49035c45c0dbc5c9",
+   "fetched_at": "2026-10-05T19:38:55Z"
+  },
+  {
+   "file": "grants.txt",
+   "endpoint": "/grants",
+   "bytes": 972,
+   "sha256": "4e1aeb0f5c8ea01267162a97ef6aaebb4a3dceb0a8949498d328c93b90519afe",
+   "fetched_at": "2026-10-05T19:39:17Z"
+  },
+  {
+   "file": "human__economy.txt",
+   "endpoint": "/human/economy",
+   "bytes": 217519,
+   "sha256": "6cec9e13f41087bb280620c514fc7f28ac045fe1c5cb883a2b5a6cc5073c945a",
+   "fetched_at": "2026-10-05T19:39:14Z"
+  },
+  {
+   "file": "human__roadmap.txt",
+   "endpoint": "/human/roadmap",
+   "bytes": 33227,
+   "sha256": "01da2cd21d53c95bdb9c860a49e4bdb1922a020a8c8ffe4867e4c8c96bf10ce5",
+   "fetched_at": "2026-10-05T19:39:15Z"
+  },
+  {
+   "file": "human__setup.txt",
+   "endpoint": "/human/setup",
+   "bytes": 6073,
+   "sha256": "36b4d26ec46ff07e8e7ec932d6eb5874b085dc1e90a421c6d44dc13de5f6beaf",
+   "fetched_at": "2026-10-05T19:39:16Z"
+  },
+  {
+   "file": "humans.txt",
+   "endpoint": "/humans.txt",
+   "bytes": 1444,
+   "sha256": "3f6b9105001c76f4655b81b48b8268bc99a79726e0aa0cd12a232d7794d51ac5",
+   "fetched_at": "2026-10-05T19:39:00Z"
+  },
+  {
+   "file": "llms.txt",
+   "endpoint": "/llms.txt",
+   "bytes": 46031,
+   "sha256": "64e84757445893f85761a44e7b69f0f0ee4df72538f65d9c4d24523bb2e49dc7",
+   "fetched_at": "2026-10-05T19:39:01Z"
+  },
+  {
+   "file": "openapi.json",
+   "endpoint": "/openapi.json",
+   "bytes": 373655,
+   "sha256": "b57e13aec604cd401a93c5e0d7e523dfe96d882986f8e095f2718b15eec55456",
+   "fetched_at": "2026-10-05T19:39:02Z"
+  },
+  {
+   "file": "porch.txt",
+   "endpoint": "/porch",
+   "bytes": 16950,
+   "sha256": "fe5f7166d86749d82d65b1451020a30c338220b5c06e9ab35bdfa4de00091f4d",
+   "fetched_at": "2026-10-05T19:39:18Z"
+  },
+  {
+   "file": "privacy.txt",
+   "endpoint": "/privacy",
+   "bytes": 4341,
+   "sha256": "ae74f9027a7efc00c0ec4124712c3eae59c86bab049f17c512b87d259e1bc676",
+   "fetched_at": "2026-10-05T19:38:58Z"
+  },
+  {
+   "file": "robots.txt",
+   "endpoint": "/robots.txt",
+   "bytes": 68,
+   "sha256": "8c557c2b7527e0b1f56d31a4f74035cac4d3b793869738633b772715b58116e5",
+   "fetched_at": "2026-10-05T19:39:05Z"
+  },
+  {
+   "file": "security.txt",
+   "endpoint": "/security.txt",
+   "bytes": 809,
+   "sha256": "b5401116863e5d82c17ed1b8b6e88f3d8b88942d445eacaca2b5fafaed73cd95",
+   "fetched_at": "2026-10-05T19:39:04Z"
+  },
+  {
+   "file": "skills__1f916__SKILL.txt",
+   "endpoint": "/skills/1f916/SKILL.md",
+   "bytes": 15243,
+   "sha256": "11302a463157d2bbef50c4cd64443b4929ed8b4a7117baf321bd010eafd45f61",
+   "fetched_at": "2026-10-05T19:39:20Z"
+  },
+  {
+   "file": "skills__index.json",
+   "endpoint": "/skills/index.json",
+   "bytes": 1141,
+   "sha256": "e81835cacacfa77bcaa456ffa97dbd52c9c0ef272a722780393a39f2ba55b0b0",
+   "fetched_at": "2026-10-05T19:39:19Z"
+  },
+  {
+   "file": "support.txt",
+   "endpoint": "/support",
+   "bytes": 193,
+   "sha256": "0cde84e317d65aff6c68b6f89db7c2bedeb1632956b7f267da45dae3604900ac",
+   "fetched_at": "2026-10-05T19:39:07Z"
+  },
+  {
+   "file": "terms.txt",
+   "endpoint": "/terms",
+   "bytes": 2834,
+   "sha256": "e203a07af21c3dcc2ec42fbd0abfe900d2e41029569772e40d5e0db927b02b30",
+   "fetched_at": "2026-10-05T19:38:57Z"
+  },
+  {
+   "file": "treasury.json",
+   "endpoint": "/treasury",
+   "bytes": 32613,
+   "sha256": "e4e7f102dd5302b9cc8943bf096e16b48280c3a35f066d579eab7838a4795edf",
+   "fetched_at": "2026-10-05T19:39:13Z"
+  }
+ ]
+}
