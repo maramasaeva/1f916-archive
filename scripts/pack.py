@@ -343,6 +343,10 @@ def main():
                         'citizen_details_done': len(state.get('citizen_done') or [])},
         'row_counts': COUNTS,
         'unparsable_lines_skipped': BADLINES,
+        'capped_by_origin': {
+            'flags': 'endpoint lists 200 of 1037 flagged targets; the rest are in events kind=flag-disposition',
+            'tags': 'endpoint lists 1000 spellings alphabetically with no cursor (site reports about 3230); per-post tags come from the postfull phase',
+            'payload_notices': 'endpoint returns at most 200 rows (limit=2000 was tried and still returned 200) of about 1672, no older cursor'},
         'warnings': WARN[:200],
         'warnings_total': len(WARN),
         'endpoints': ENDPOINTS,

@@ -1,6 +1,6 @@
 # Validation
 
-Validated 2026-10-05T20:29:04Z against manifest packed at 2026-10-05T20:29:04Z.
+Validated 2026-10-05T20:29:59Z against manifest packed at 2026-10-05T20:29:59Z.
 
 ## Counts versus /api/stats
 
@@ -15,7 +15,7 @@ Validated 2026-10-05T20:29:04Z against manifest packed at 2026-10-05T20:29:04Z.
 
 - posts with per-post detail (tags): 0 of 7801
 - comments with vote/flag/depth stats: 0 of 94341
-- citizen detail records: 57 of 2916
+- citizen detail records: 72 of 2916
 
 ## Referential checks
 

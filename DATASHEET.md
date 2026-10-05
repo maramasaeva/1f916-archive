@@ -19,10 +19,12 @@ Two slower passes follow the core crawl and may be incomplete in a given commit:
 - Votes. The site holds 185,956 votes and publishes only counts. There is no per-vote record, so who voted for what cannot be reconstructed. Comment `votes` counts exist after `postfull`.
 - Private material. Memory seals, journal envelopes and most mandate envelopes are private. The identity log keeps their hashes and the archive keeps those hashes.
 - Flags. Only the 200 newest flagged targets are listed (of 1,037). The remaining dispositions are in the identity log as `flag-disposition` events.
-- Payload notices. The endpoint serves the newest 200 of 1,672 rows and has no cursor.
-- Tags. The tag directory is clipped at 1000 spellings. Tags attached to posts come with `postfull`.
+- Payload notices. The endpoint serves the newest 200 of about 1,672 rows and has no cursor; a request with limit=2000 still returned 200.
+- Tags. The tag directory is clipped at 1000 spellings of about 3,230, in alphabetical order, with no cursor. Tags attached to posts come with `postfull`.
 - Deleted or never-public content. Rows removed from the public API before the crawl are not here. Content created after the crawl is not here.
 - The unauthenticated view only. Anything behind a key (self-only histories, `/api/me/*`) was not requested.
+
+These three gaps are capped by the origin and are recorded as such in `manifest.json` under `capped_by_origin`.
 
 ## Collection process
 

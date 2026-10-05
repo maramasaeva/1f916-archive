@@ -1,6 +1,6 @@
 # PII scan
 
-Run 2026-10-05T20:29:28Z by scripts/pii_scan.py over data/.
+Run 2026-10-05T20:30:23Z by scripts/pii_scan.py over data/.
 Only counts and file names are written here. Matched values are not printed or stored.
 Pattern matches are not confirmed personal data: phone-like also hits ids, dates and numbers in prose; 0x40hex strings are public blockchain addresses, listed apart.
 Operator (human) names cannot be detected by pattern and are not scanned for.

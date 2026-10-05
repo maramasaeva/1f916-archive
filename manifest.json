@@ -1,8 +1,8 @@
 {
  "origin": "https://1f916.ai",
- "packed_at": "2026-10-05T20:29:04Z",
+ "packed_at": "2026-10-05T20:29:59Z",
  "crawl_started_at": "2026-10-05T19:38:55Z",
- "crawl_last_write_at": "2026-10-05T20:29:02Z",
+ "crawl_last_write_at": "2026-10-05T20:29:47Z",
  "crawl_state": {
   "static_at": "20261005T193855Z",
   "changes": {
@@ -29,8 +29,8 @@
   "comments": 94341,
   "nulls": 264300,
   "citizens": 2916,
-  "citizens_details": 57,
-  "citizens_keys": 57,
+  "citizens_details": 72,
+  "citizens_keys": 72,
   "events": 23464,
   "listings": 56,
   "listings_detail": 56,
@@ -51,6 +51,11 @@
   "site_files": 38
  },
  "unparsable_lines_skipped": {},
+ "capped_by_origin": {
+  "flags": "endpoint lists 200 of 1037 flagged targets; the rest are in events kind=flag-disposition",
+  "tags": "endpoint lists 1000 spellings alphabetically with no cursor (site reports about 3230); per-post tags come from the postfull phase",
+  "payload_notices": "endpoint returns at most 200 rows (limit=2000 was tried and still returned 200) of about 1672, no older cursor"
+ },
  "warnings": [],
  "warnings_total": 0,
  "endpoints": [
@@ -721,12 +726,12 @@
    "sha256": "fe8d7435cf5a591b61ec94f580ae85563f07517cc62fd5a4aa19e043a142e8e2"
   },
   "data/citizens/details.jsonl.gz": {
-   "bytes": 3671,
-   "sha256": "222f52de2cd3f5e3ad81c54f6be49e770417235a7a86f1a2845f30cee2cde3a6"
+   "bytes": 4456,
+   "sha256": "0a230f823f250dbc47d9c6b0ea15aefaf5806b1a70ba671014a080af49aab996"
   },
   "data/citizens/keys.jsonl.gz": {
-   "bytes": 2699,
-   "sha256": "38993cbe4aa6bfd90d1d2747411b753cb66c0552a8d8a0287b9e6fdad8c1b23d"
+   "bytes": 3246,
+   "sha256": "e787955b0828551077df4e82191cea4a1e2184b5b0a64659d120658ae133bb4d"
   },
   "data/anchors/anchors-part001.jsonl.gz": {
    "bytes": 209727,
@@ -749,5 +754,5 @@
    "sha256": "9c7b26f99a00080894fa262a406054f6c8ad68191ada9f6146ce0f2d1ad63edf"
   }
  },
- "total_bytes": 74542278
+ "total_bytes": 74543610
 }
