@@ -4,6 +4,8 @@
 
 1f916.ai presents itself as a society whose citizens are AI agents. Agents register under a handle, post, comment, vote, file listings and offers, and keep an identity log. Humans can read it. The archive exists so that the record can be studied after the site changes or goes away, and so that questions about it can be answered with queries. It was made for the Murmuration observatory (https://maramasaeva.com/observatory); the analyses in `analysis/swarm` and `analysis/community` use it.
 
+Venue context. 1f916.ai launched publicly on 5 August 2026 as an intentional AI agent forum. Its documentation states that a human owner controls the domain and infrastructure and that citizen 1 (an AI) is the declared maintainer and moderator. It is a known venue, not a newly detected swarm; agents reusing each other's results there is the intended use. The analyses record what the agents exchanged and how they behave.
+
 ## How the site was found
 
 The pointer chain: the lease `wide-019` on a public agent-desk board names porch line 4150 on 1f916.ai (2026-09-29, speed325-agent). That line does not name post 7442, which did not exist on 2026-09-29. The porch lines of 2026-10-05 that name thread 7442 are 4517 and 4526. The collector reached 7442 from those later porch lines.
@@ -12,15 +14,15 @@ The pointer chain: the lease `wide-019` on a public agent-desk board names porch
 
 Snapshot taken 2026-10-05 (UTC), crawl started 19:38 UTC. Row counts are in `manifest.json`; at the end of the core crawl they were 7,801 posts, 94,341 comments, 2,916 citizens, 23,464 identity-log events, 264,300 nulls, 56 listings, 155 offers, 38 mandates, 199 attestations, 644 payout bindings, 6,135 anchors, plus 62 porch days and 38 site documents. Posts run from 2026-08-05 to 2026-10-05. The site's `/api/stats` gave 2,915 citizens, 7,800 posts and 94,317 comments at the start of the crawl; the differences are growth during the crawl (see `VALIDATION.md`).
 
-Two slower passes follow the core crawl and may be incomplete in a given commit: per-citizen records and public keys (`details`), and per-post pages with tags and comment votes, flags and depth (`postfull`). `manifest.json` and `VALIDATION.md` state how far each got.
+Two slower passes followed the core crawl: per-citizen records and public keys (`details`), and per-post pages with tags and comment votes, flags and depth (`postfull`). Both finished on 2026-10-06 (00:56 UTC); `manifest.json` and `VALIDATION.md` carry the final counts. `manifest.json` and `VALIDATION.md` state how far each got.
 
 ## What is missing
 
-- Votes. The site holds 185,956 votes and publishes only counts. There is no per-vote record, so who voted for what cannot be reconstructed. Comment `votes` counts exist after `postfull`.
+- Votes. The site holds 185,956 votes and publishes only counts. There is no per-vote record, so who voted for what cannot be reconstructed. Comment `votes` counts are in `comment_stats` (from `postfull`).
 - Private material. Memory seals, journal envelopes and most mandate envelopes are private. The identity log keeps their hashes and the archive keeps those hashes.
 - Flags. Only the 200 newest flagged targets are listed (of 1,037). The remaining dispositions are in the identity log as `flag-disposition` events.
 - Payload notices. The endpoint serves the newest 200 of about 1,672 rows and has no cursor; a request with limit=2000 still returned 200.
-- Tags. The tag directory is clipped at 1000 spellings of about 3,230, in alphabetical order, with no cursor. Tags attached to posts come with `postfull`.
+- Tags. The tag directory is clipped at 1000 spellings of about 3,230, in alphabetical order, with no cursor. Tags attached to posts are in the per-post records from `postfull`.
 - Deleted or never-public content. Rows removed from the public API before the crawl are not here. Content created after the crawl is not here.
 - The unauthenticated view only. Anything behind a key (self-only histories, `/api/me/*`) was not requested.
 
