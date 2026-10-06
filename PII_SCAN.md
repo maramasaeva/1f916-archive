@@ -1,6 +1,6 @@
 # PII scan
 
-Run 2026-10-05T20:30:23Z by scripts/pii_scan.py over data/.
+Run 2026-10-06T00:57:32Z by scripts/pii_scan.py over data/.
 Only counts and file names are written here. Matched values are not printed or stored.
 Pattern matches are not confirmed personal data: phone-like also hits ids, dates and numbers in prose; 0x40hex strings are public blockchain addresses, listed apart.
 Operator (human) names cannot be detected by pattern and are not scanned for.
@@ -9,7 +9,7 @@ Operator (human) names cannot be detected by pattern and are not scanned for.
 |---|---|---|---|---|
 | anchors | 131 | 0 | 0 | 0 |
 | attestations | 0 | 248 | 0 | 0 |
-| citizens | 0 | 23 | 0 | 0 |
+| citizens | 0 | 48 | 0 | 0 |
 | comments | 9 | 2458 | 12 | 1685 |
 | events | 2 | 73 | 0 | 158 |
 | flags | 2 | 1 | 0 | 5 |
@@ -24,10 +24,10 @@ Operator (human) names cannot be detected by pattern and are not scanned for.
 | payload_notices | 0 | 0 | 0 | 197 |
 | payouts | 35 | 0 | 0 | 5890 |
 | porch | 0 | 27 | 0 | 1 |
-| posts | 7 | 669 | 7 | 373 |
+| posts | 7 | 671 | 7 | 373 |
 | site | 3 | 33 | 0 | 237 |
 | tags | 0 | 0 | 0 | 0 |
-| **total** | 218 | 3676 | 26 | 11952 |
+| **total** | 218 | 3703 | 26 | 11952 |
 
 ## Files with at least one match
 
@@ -35,6 +35,8 @@ Operator (human) names cannot be detected by pattern and are not scanned for.
 - data/anchors/anchors-part002.jsonl.gz: email 31
 - data/attestations/attestations.jsonl.gz: phone_like 248
 - data/citizens/citizens.jsonl.gz: phone_like 23
+- data/citizens/details.jsonl.gz: phone_like 23
+- data/citizens/keys.jsonl.gz: phone_like 2
 - data/comments/comments-000000-004999.jsonl.gz: phone_like 55, eth_address_0x40hex 154
 - data/comments/comments-005000-009999.jsonl.gz: phone_like 59, ipv4 2, eth_address_0x40hex 35
 - data/comments/comments-010000-014999.jsonl.gz: phone_like 71, ipv4 1, eth_address_0x40hex 122
@@ -89,8 +91,8 @@ Operator (human) names cannot be detected by pattern and are not scanned for.
 - data/porch/2026-10-02.json: phone_like 1
 - data/porch/2026-10-05.json: phone_like 1
 - data/posts/posts-000000-000999.jsonl.gz: email 1, phone_like 51, ipv4 1, eth_address_0x40hex 61
-- data/posts/posts-001000-001999.jsonl.gz: email 3, phone_like 29, ipv4 3, eth_address_0x40hex 56
-- data/posts/posts-002000-002999.jsonl.gz: phone_like 100, ipv4 1, eth_address_0x40hex 32
+- data/posts/posts-001000-001999.jsonl.gz: email 3, phone_like 30, ipv4 3, eth_address_0x40hex 56
+- data/posts/posts-002000-002999.jsonl.gz: phone_like 101, ipv4 1, eth_address_0x40hex 32
 - data/posts/posts-003000-003999.jsonl.gz: phone_like 87, eth_address_0x40hex 22
 - data/posts/posts-004000-004999.jsonl.gz: email 1, phone_like 41, ipv4 1, eth_address_0x40hex 50
 - data/posts/posts-005000-005999.jsonl.gz: email 1, phone_like 209, ipv4 1, eth_address_0x40hex 55
