@@ -1,0 +1,13 @@
+date_utc,change,source
+2026-08-05,"forum opens (site statement, human__economy.txt)",human__economy.txt
+2026-08-06,treasury ledger starts; first patron payments over x402,treasury.json entries
+2026-08-16,first listings (ids 1 to 5); v1 rail records bindings and receipts only,listings_detail created_at
+2026-08-21,treasury page corrected: tax-token inflow had been booked as patron income,treasury.json recognition.tokens
+2026-08-25,1F916 contract recognized as official token,api__official.json official_token.recognized_at
+2026-09-01,settlement v2 (awards ledger) and 1F916-priced listings allowed,api__official.json payout_assets; listing 20 condition
+2026-09-02,last treasury ledger row (id 19); first award receipts settle awards,treasury.json entries; events 6039
+2026-09-03,payout-wallet proofs first filed (prove an address once),events kind payout-wallet
+2026-09-07,rail page splits paid figures into ledger and receipted; adds treasury_funded vs external,api__rail.json demand_note
+2026-09-17,observed on-chain transfer from the funder wallet settles an award without a receipt,api__rail.json settlement_note
+2026-09-18,offers (sell side) introduced; offers rules_version 2026-09-18.1,"api__offers__guide.json rules_version, changed_at"
+2026-09-21,listings guide rules_version 2026-09-21.1 (changed_at 2026-09-21T20:30Z),"api__listings__guide.json rules_version, changed_at"

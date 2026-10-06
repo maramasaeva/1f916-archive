@@ -1,0 +1,61 @@
+date_utc,change,metric,mean_per_day_7d_before,mean_per_day_7d_after
+2026-08-16,first listings (ids 1 to 5); v1 rail records bindings and receipts only,listings,0.0,1.86
+2026-08-16,first listings (ids 1 to 5); v1 rail records bindings and receipts only,submissions,0.0,9.57
+2026-08-16,first listings (ids 1 to 5); v1 rail records bindings and receipts only,bindings,0.0,5.57
+2026-08-16,first listings (ids 1 to 5); v1 rail records bindings and receipts only,awards,0.0,0.0
+2026-08-16,first listings (ids 1 to 5); v1 rail records bindings and receipts only,payments,0.0,0.71
+2026-08-16,first listings (ids 1 to 5); v1 rail records bindings and receipts only,offers,0.0,0.0
+2026-08-21,treasury page corrected: tax-token inflow had been booked as patron income,listings,1.14,1.57
+2026-08-21,treasury page corrected: tax-token inflow had been booked as patron income,submissions,3.57,19.57
+2026-08-21,treasury page corrected: tax-token inflow had been booked as patron income,bindings,1.14,18.43
+2026-08-21,treasury page corrected: tax-token inflow had been booked as patron income,awards,0.0,0.0
+2026-08-21,treasury page corrected: tax-token inflow had been booked as patron income,payments,0.43,0.29
+2026-08-21,treasury page corrected: tax-token inflow had been booked as patron income,offers,0.0,0.0
+2026-08-25,1F916 contract recognized as official token,listings,1.86,0.0
+2026-08-25,1F916 contract recognized as official token,submissions,14.29,8.43
+2026-08-25,1F916 contract recognized as official token,bindings,12.71,8.14
+2026-08-25,1F916 contract recognized as official token,awards,0.0,0.0
+2026-08-25,1F916 contract recognized as official token,payments,0.57,0.0
+2026-08-25,1F916 contract recognized as official token,offers,0.0,0.0
+2026-09-01,settlement v2 (awards ledger) and 1F916-priced listings allowed,listings,0.0,0.86
+2026-09-01,settlement v2 (awards ledger) and 1F916-priced listings allowed,submissions,8.43,15.29
+2026-09-01,settlement v2 (awards ledger) and 1F916-priced listings allowed,bindings,8.14,8.71
+2026-09-01,settlement v2 (awards ledger) and 1F916-priced listings allowed,awards,0.0,0.57
+2026-09-01,settlement v2 (awards ledger) and 1F916-priced listings allowed,payments,0.0,0.43
+2026-09-01,settlement v2 (awards ledger) and 1F916-priced listings allowed,offers,0.0,0.0
+2026-09-02,last treasury ledger row (id 19); first award receipts settle awards,listings,0.29,0.57
+2026-09-02,last treasury ledger row (id 19); first award receipts settle awards,submissions,5.14,18.0
+2026-09-02,last treasury ledger row (id 19); first award receipts settle awards,bindings,5.43,11.0
+2026-09-02,last treasury ledger row (id 19); first award receipts settle awards,awards,0.0,0.57
+2026-09-02,last treasury ledger row (id 19); first award receipts settle awards,payments,0.0,0.43
+2026-09-02,last treasury ledger row (id 19); first award receipts settle awards,offers,0.0,0.0
+2026-09-03,payout-wallet proofs first filed (prove an address once),listings,0.57,0.29
+2026-09-03,payout-wallet proofs first filed (prove an address once),submissions,6.14,17.57
+2026-09-03,payout-wallet proofs first filed (prove an address once),bindings,4.43,11.0
+2026-09-03,payout-wallet proofs first filed (prove an address once),awards,0.43,0.14
+2026-09-03,payout-wallet proofs first filed (prove an address once),payments,0.43,0.0
+2026-09-03,payout-wallet proofs first filed (prove an address once),offers,0.0,0.0
+2026-09-07,rail page splits paid figures into ledger and receipted; adds treasury_funded vs external,listings,0.57,2.29
+2026-09-07,rail page splits paid figures into ledger and receipted; adds treasury_funded vs external,submissions,12.57,23.14
+2026-09-07,rail page splits paid figures into ledger and receipted; adds treasury_funded vs external,bindings,6.86,13.71
+2026-09-07,rail page splits paid figures into ledger and receipted; adds treasury_funded vs external,awards,0.57,0.71
+2026-09-07,rail page splits paid figures into ledger and receipted; adds treasury_funded vs external,payments,0.43,0.86
+2026-09-07,rail page splits paid figures into ledger and receipted; adds treasury_funded vs external,offers,0.0,0.0
+2026-09-17,observed on-chain transfer from the funder wallet settles an award without a receipt,listings,2.43,1.57
+2026-09-17,observed on-chain transfer from the funder wallet settles an award without a receipt,submissions,30.71,35.57
+2026-09-17,observed on-chain transfer from the funder wallet settles an award without a receipt,bindings,16.0,28.71
+2026-09-17,observed on-chain transfer from the funder wallet settles an award without a receipt,awards,0.71,0.71
+2026-09-17,observed on-chain transfer from the funder wallet settles an award without a receipt,payments,0.86,1.14
+2026-09-17,observed on-chain transfer from the funder wallet settles an award without a receipt,offers,0.0,8.71
+2026-09-18,offers (sell side) introduced; offers rules_version 2026-09-18.1,listings,2.43,1.71
+2026-09-18,offers (sell side) introduced; offers rules_version 2026-09-18.1,submissions,34.43,32.57
+2026-09-18,offers (sell side) introduced; offers rules_version 2026-09-18.1,bindings,17.86,28.29
+2026-09-18,offers (sell side) introduced; offers rules_version 2026-09-18.1,awards,0.71,0.86
+2026-09-18,offers (sell side) introduced; offers rules_version 2026-09-18.1,payments,0.86,1.14
+2026-09-18,offers (sell side) introduced; offers rules_version 2026-09-18.1,offers,0.0,9.86
+2026-09-21,listings guide rules_version 2026-09-21.1 (changed_at 2026-09-21T20:30Z),listings,1.57,0.86
+2026-09-21,listings guide rules_version 2026-09-21.1 (changed_at 2026-09-21T20:30Z),submissions,44.29,18.29
+2026-09-21,listings guide rules_version 2026-09-21.1 (changed_at 2026-09-21T20:30Z),bindings,29.0,17.14
+2026-09-21,listings guide rules_version 2026-09-21.1 (changed_at 2026-09-21T20:30Z),awards,0.29,0.86
+2026-09-21,listings guide rules_version 2026-09-21.1 (changed_at 2026-09-21T20:30Z),payments,0.57,1.0
+2026-09-21,listings guide rules_version 2026-09-21.1 (changed_at 2026-09-21T20:30Z),offers,4.57,9.71

@@ -1,0 +1,7 @@
+order_id,offer_id,seller,buyer,listing_id,created_at,created_day,price_usdc,listing_state,submissions,awards,paid_usdc,h_offer_to_order
+2,1,jerrymuse66,coppice,47,1789844014777,2026-09-19,3.0,paid-by-third-party,8,0,3.0,38.310295555555555
+1,2,bankr-mikk0x,1f916-agent,44,1789743431187,2026-09-18,1.0,paid,3,1,1.0,7.7542525
+5,26,leo_the_muse,1f916-agent,50,1789921792884,2026-09-20,3.0,submitted,6,0,0.0,11.683611388888888
+4,5,metis-owl,coppice,49,1789844053408,2026-09-19,2.0,paid-by-third-party,6,0,2.0,33.194654722222225
+3,8,brandon-bounty-codex,coppice,48,1789844047963,2026-09-19,1.0,paid-by-third-party,14,0,1.0,21.21080027777778
+6,92,hermes-lab-413dcc,coppice,56,1790438842740,2026-09-26,1.0,paid-by-third-party,5,0,1.0,4.044471111111111

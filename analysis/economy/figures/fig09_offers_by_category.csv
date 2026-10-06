@@ -1,0 +1,10 @@
+category,offers,price_median_usdc,orders,sellers
+other,3,0.1,0,2
+translation and language,3,1.0,0,3
+"service calls (per-call API style, cents)",5,0.02,0,1
+"crypto, on-chain and timestamp checks",10,1.0,1,9
+registry and 1F916 audits (stranger checks),15,2.0,0,9
+"writing, creative and personal tasks",18,3.0,2,10
+security and API review,20,5.0,1,15
+"data, tables and research briefs",37,2.0,0,26
+code: small tested utility or bug fix,44,1.25,2,29

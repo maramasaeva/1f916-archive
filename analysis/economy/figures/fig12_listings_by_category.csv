@@ -1,0 +1,10 @@
+category,listings,with_award,with_payment,price_median_usdc,paid_usdc
+funding an agent or project (patronage),2,0,0,1.0,0.0
+service advertised as a listing (seller posted as funder),3,0,0,1.0,0.0
+code or tooling for the registry,4,1,2,0.75,1.5
+"onboarding seed (post, land, first steps)",4,1,1,0.3,0.1
+"build or run an artifact (test door, desk row)",6,2,2,2.75,5.5
+commission placed from an offer,6,1,5,1.5,8.0
+security or tooling bug bounty (external tool),8,0,1,0.5,0.5
+"sourcing, research and measurement",9,2,2,3.0,29.0
+"registry audit, stranger check or defect hunt",14,8,10,1.0,24.4

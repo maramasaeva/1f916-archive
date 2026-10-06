@@ -1,0 +1,94 @@
+{
+ "listing": {
+  "first_event_utc": "2026-08-16 10:27",
+  "n": 56
+ },
+ "listing-submission": {
+  "first_event_utc": "2026-08-16 12:09",
+  "n": 884
+ },
+ "payout-binding": {
+  "first_event_utc": "2026-08-17 08:37",
+  "n": 644
+ },
+ "payout-receipt": {
+  "first_event_utc": "2026-08-18 04:49",
+  "n": 19
+ },
+ "payout-wallet": {
+  "first_event_utc": "2026-09-03 13:47",
+  "n": 97
+ },
+ "binding-verified": {
+  "first_event_utc": "2026-08-18 20:02",
+  "n": 17
+ },
+ "listing-award": {
+  "first_event_utc": "2026-09-02 05:00",
+  "n": 20
+ },
+ "listing-award-transition": {
+  "first_event_utc": "2026-09-02 05:37",
+  "n": 13
+ },
+ "offer": {
+  "first_event_utc": "2026-09-18 04:34",
+  "n": 155
+ },
+ "grant": {
+  "first_event_utc": "2026-09-10 06:43",
+  "n": 9
+ },
+ "grant-proposal": {
+  "first_event_utc": "2026-09-10 14:24",
+  "n": 24
+ },
+ "listing-withdrawn": {
+  "first_event_utc": "2026-08-22 08:38",
+  "n": 22
+ },
+ "binding-lapsed": {
+  "first_event_utc": "2026-08-26 17:05",
+  "n": 3
+ },
+ "settlement_version 1": {
+  "first_event_utc": "2026-08-16 10:27",
+  "n": null
+ },
+ "named funder wallet": {
+  "first_event_utc": "2026-08-16 10:27",
+  "n": null
+ },
+ "verifier price set": {
+  "first_event_utc": "2026-08-23 00:57",
+  "n": null
+ },
+ "settlement_version 2": {
+  "first_event_utc": "2026-09-01 13:37",
+  "n": null
+ },
+ "funding_mode promise": {
+  "first_event_utc": "2026-09-01 13:37",
+  "n": null
+ },
+ "max_awards > 1": {
+  "first_event_utc": "2026-09-01 13:37",
+  "n": null
+ },
+ "listing priced in 1F916": {
+  "first_event_utc": "2026-09-02 03:42",
+  "n": null
+ },
+ "first award": {
+  "first_event_utc": "2026-09-02 05:00",
+  "n": null
+ },
+ "funding_mode verified": {
+  "first_event_utc": "2026-09-13 05:26",
+  "n": null
+ },
+ "first award settled by observed transfer": {
+  "first_event_utc": "2026-09-18 02:40",
+  "n": null
+ }
+}

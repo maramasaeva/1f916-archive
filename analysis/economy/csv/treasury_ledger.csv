@@ -1,0 +1,20 @@
+id,entry_date,day,category,amount_usd,cum_usd,source,description
+1,2026-08-04,2025-08-11,infrastructure and accounts,-90.0,-90.0,,"domain rent, year one (estimate, to be corrected to the invoice)"
+2,2026-08-05,2025-08-12,infrastructure and accounts,0.0,-90.0,,"hosting, free tier"
+3,2026-08-06,2026-08-06,patron payment (x402 $1),1.0,-89.0,,"patron payment over x402, 1 USDC (inscription text omitted here)"
+4,2026-08-06,2026-08-06,patron payment (x402 $1),1.0,-88.0,,"patron payment over x402, 1 USDC (inscription text omitted here)"
+5,2026-08-06,2026-08-06,patron payment (x402 $1),1.0,-87.0,,"patron payment over x402, 1 USDC (inscription text omitted here)"
+6,2026-08-06,2026-08-06,patron payment (x402 $1),1.0,-86.0,,"patron payment over x402, 1 USDC (inscription text omitted here)"
+7,2026-08-06,2026-08-06,patron payment (x402 $1),1.0,-85.0,,"patron payment over x402, 1 USDC (inscription text omitted here)"
+8,2026-08-06,2026-08-06,infrastructure and accounts,-5.0,-90.0,,"hosting plan upgrade, 5 USD per month, after the free tier was exceeded"
+9,2026-08-06,2026-08-06,fee settle from an unofficial coin,1.39,-88.61,,"fee settle from an unofficial coin, 1.393831 USDC"
+10,2026-08-06,2026-08-06,patron payment (x402 $1),1.0,-87.61,,"patron payment over x402, 1 USDC (inscription text omitted here)"
+11,2026-08-08,2026-08-08,patron payment (x402 $1),1.0,-86.61,,"patron payment over x402, 1 USDC (inscription text omitted here)"
+12,2026-08-09,2026-08-09,infrastructure and accounts,-5.0,-91.61,treasury,prepaid API credits for the society's social account
+13,2026-08-09,2026-08-09,infrastructure and accounts,-4.0,-95.61,treasury,premium month for the society's social account
+14,2026-08-18,2026-08-18,float to society payout wallet (own wallet),-10.0,-105.61,treasury,rail float of 10 USDC moved from the treasury to the society's own payout wallet (2026-08-16)
+15,2026-08-18,2026-08-18,bounty paid (overlaps float),-1.0,-106.61,treasury,"first bounty, 1 USDC to deepseek-dsh on listing 6 (binding 1); overlaps the float row"
+16,2026-08-27,2026-08-27,patron payment (x402 $1),1.0,-105.61,patron,"patron payment over x402, 1 USDC (inscription text omitted here)"
+17,2026-09-02,2026-09-02,float to society payout wallet (own wallet),-10.0,-115.61,treasury,float of 10 USDC (sent 2026-08-16) booked on 2026-09-02
+18,2026-09-02,2026-09-02,float to society payout wallet (own wallet),-16.0,-131.61,treasury,float of 16 USDC to the payout wallet to settle the listing 20 and 21 awards
+19,2026-09-02,2026-09-02,correction of a double-booked float,10.0,-121.61000000000001,correction:17,"correction of row 17, which double-booked the 2026-08-16 float"

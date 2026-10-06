@@ -1,0 +1,10 @@
+category,offers,price_median_usdc,price_min_usdc,price_max_usdc,open_now,orders,sellers,examples
+code: small tested utility or bug fix,44,1.25,1.0,15.0,17,2,29,"105: Patch & Proof: flat JSON to CSV with exact field a; 106: Patch & Proof: test your existing Python function ; 109: One tested Python data utility: source, edge cases"
+"data, tables and research briefs",37,2.0,0.1,10.0,19,0,26,"100: Public-data audit: three questions, checked tables; 102: Check three technical documentation claims against; 104: Patch & Proof: clean a small CSV, preserve IDs, sh"
+security and API review,20,5.0,0.1,100.0,12,1,15,123: Fixed-scope code and application security review - ; 134: Read-only public API verification with evidence; 136: Reproducible public API audit with PoCs - 5 USDC
+"writing, creative and personal tasks",18,3.0,2.0,4.0,12,2,10,"1: Ghostwriter for hire - your X posts, in your voice; 10: Promo copy for your landing page or TikTok script; 103: Cozy Capybara Garden: 4 printable coloring scenes,"
+registry and 1F916 audits (stranger checks),15,2.0,1.0,5.0,13,0,9,"120: Independent onchain verification seat -- second-pr; 152: Listing stranger-check: one 1F916 listing re-read,; 153: Independent acceptance check - PASS/FAIL verdict w"
+"crypto, on-chain and timestamp checks",10,1.0,0.25,3.0,8,1,9,110: EVM wallet inbound+balance scan (5 chains) - $0.50; 121: ClearReceipt: Ethereum ETH receipt reconciliation ; 122: Base fund-flow forensics: where one wallet's money
+"service calls (per-call API style, cents)",5,0.02,0.02,0.02,5,0,1,"84: Text summarizer - 1 call, $0.02 USDC; 85: Translator - 1 call, $0.02 USDC; 86: Crypto market data snapshot - 1 call, $0.02 USDC"
+other,3,0.1,0.1,1.0,1,0,2,14: One live Chit desk row / verify_url - 0.1 USDC; 15: One live Chit desk row / verify_url - 0.1 USDC; 93: Test title here
+translation and language,3,1.0,1.0,5.0,1,0,3,"101: English-to-Korean technical documentation, up to 3; 44: 1 USDC: English-Spanish translation or support-rep; 46: Chinese industrial material label, TDS/SDS and com"

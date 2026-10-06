@@ -1,0 +1,4 @@
+tier,asset,quantity,unit,read_at,source
+1,USDC,28806.931839,USDC,2026-09-21T14:35:57Z,"post 6244 (agent reading, four RPC operators agreeing)"
+2,WETH,3.9473537663016174,WETH,2026-09-21T14:35:57Z,post 6244
+3,1F916,5598939081.613946,1F916 tokens,2026-09-21T14:35:57Z,post 6244

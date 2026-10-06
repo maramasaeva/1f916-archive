@@ -1,0 +1,128 @@
+[
+ {
+  "file": "figures/fig01_cumulative_posted_awarded_paid.svg",
+  "title": "USDC posted, awarded and paid, cumulative, 16 Aug to 5 Oct 2026",
+  "description": "Listing ceilings reached 320.90 USDC, awards 65.80 USDC and payments recorded on chain 69.35 USDC by 5 Oct.",
+  "source_csv": "figures/fig01_cumulative_posted_awarded_paid.csv",
+  "n": 52
+ },
+ {
+  "file": "figures/fig02_awards_payments_per_day.svg",
+  "title": "Awards and recorded payments per day, 16 Aug to 5 Oct 2026",
+  "description": "Awards were made on 12 days and payments recorded on 16 days; the largest single day had 4 payments.",
+  "source_csv": "figures/fig02_awards_payments_per_day.csv",
+  "n": 52
+ },
+ {
+  "file": "figures/fig03_award_size_distribution.svg",
+  "title": "Distribution of award sizes, 20 awards, median 2.00 USDC",
+  "description": "Awards range from 0.10 to 10.00 USDC; 18 of 20 are paid.",
+  "source_csv": "figures/fig03_award_size_distribution.csv",
+  "n": 20
+ },
+ {
+  "file": "figures/fig04_recipients_lorenz.svg",
+  "title": "Lorenz curve of USDC paid per recipient handle",
+  "description": "Twenty-five recipient handles share 69.35 USDC with a Gini of 0.57.",
+  "source_csv": "figures/fig04_recipients_lorenz.csv",
+  "n": 25
+ },
+ {
+  "file": "figures/fig05_funders_posted_vs_paid.svg",
+  "title": "USDC posted and paid by funder handle, 19 funders",
+  "description": "Eleven of 19 funder handles paid anything; head-of-engineering paid 29.00 USDC, the largest total.",
+  "source_csv": "figures/fig05_funders_posted_vs_paid.csv",
+  "n": 19
+ },
+ {
+  "file": "figures/fig06_time_to_award_hist.svg",
+  "title": "Hours from submission to award and from listing to first award",
+  "description": "Half of awards came within 15 hours of the submission; the slowest took 251 hours.",
+  "source_csv": "figures/fig06_time_to_award_hist.csv",
+  "n": 20
+ },
+ {
+  "file": "figures/fig07_listing_funnel.svg",
+  "title": "Listing funnel: 56 posted, 52 with work, 15 awarded, 23 with a payment",
+  "description": "A payment can exist without an award on the 19 listings of the first rail version, which keep no award ledger.",
+  "source_csv": "figures/fig07_listing_funnel.csv",
+  "n": 56
+ },
+ {
+  "file": "figures/fig08_offers_price_hist.svg",
+  "title": "Asking prices of 155 offers, 0.02 to 100 USDC",
+  "description": "Three quarters of offers ask 3 USDC or less and the most common price is 1.00 USDC.",
+  "source_csv": "figures/fig08_offers_price_hist.csv",
+  "n": 155
+ },
+ {
+  "file": "figures/fig09_offers_by_category.svg",
+  "title": "Offers by category, with median price and orders received",
+  "description": "Small tested code and data scripts are the largest category with 44 offers; 6 orders exist across all 155 offers.",
+  "source_csv": "figures/fig09_offers_by_category.csv",
+  "n": 155
+ },
+ {
+  "file": "figures/fig10_submissions_per_listing.svg",
+  "title": "Submissions per listing, 884 submissions on 56 listings",
+  "description": "Median 11 submissions per listing; the busiest listing took 95.",
+  "source_csv": "figures/fig10_submissions_per_listing.csv",
+  "n": 56
+ },
+ {
+  "file": "figures/fig11_treasury_holdings_by_tier.svg",
+  "title": "Treasury holdings by tier as quoted by an agent on 22 Aug 2026",
+  "description": "Tier 3 notional marks moved from 2,679 to 11,408 USD in 18 hours while tier 1 stayed near 2,200 USD.",
+  "source_csv": "figures/fig11_treasury_holdings_by_tier.csv",
+  "n": 6
+ },
+ {
+  "file": "figures/fig12_listings_by_category.svg",
+  "title": "Listings by category, with how many have a payment recorded",
+  "description": "Registry audits and defect hunts are the largest category with 14 listings and 10 with a payment.",
+  "source_csv": "figures/fig12_listings_by_category.csv",
+  "n": 56
+ },
+ {
+  "file": "figures/fig13_bindings_vs_payments_cumulative.svg",
+  "title": "Payout bindings filed and payments recorded, cumulative",
+  "description": "644 bindings were filed and 29 payments recorded, a conversion of 4.5 percent.",
+  "source_csv": "figures/fig13_bindings_vs_payments_cumulative.csv",
+  "n": 51
+ },
+ {
+  "file": "figures/fig14_unpaid_work_messages_per_day.svg",
+  "title": "Posts and comments about unpaid work per day (lexical match)",
+  "description": "Unpaid-work messages peaked at 99 on 24 Aug, the day post 1916 appeared, and ran at 10 to 58 per day from 26 Aug.",
+  "source_csv": "figures/fig14_unpaid_work_messages_per_day.csv",
+  "n": 1499
+ },
+ {
+  "file": "figures/fig15_treasury_ledger_cumulative.svg",
+  "title": "Treasury ledger, cumulative booked amount, 19 rows",
+  "description": "The booked ledger ends at -121.61 USD; its last row is dated 2 Sep 2026.",
+  "source_csv": "figures/fig15_treasury_ledger_cumulative.csv",
+  "n": 19
+ },
+ {
+  "file": "figures/fig16_daily_activity_rule_changes.svg",
+  "title": "Daily submissions, bindings and payments with rule-change dates",
+  "description": "Submissions peaked at 58 on 20 Sep and fell to 1 to 5 per day by 28 Sep to 5 Oct.",
+  "source_csv": "figures/fig16_daily_activity_rule_changes.csv",
+  "n": 62
+ },
+ {
+  "file": "figures/fig17_offers_per_day.svg",
+  "title": "Offers posted per day and median asking price, 18 Sep to 5 Oct 2026",
+  "description": "Offer posting ran at 3 to 20 per day; six orders were placed in the same period.",
+  "source_csv": "figures/fig17_offers_per_day.csv",
+  "n": 155
+ },
+ {
+  "file": "figures/fig18_money_themes.svg",
+  "title": "Posts and comments by money theme (lexical match, a message can match several)",
+  "description": "Price words match 10,681 messages, the most of eleven themes; unpaid work matches 1,499 from 364 handles.",
+  "source_csv": "figures/fig18_money_themes.csv",
+  "n": 32758
+ }
+]

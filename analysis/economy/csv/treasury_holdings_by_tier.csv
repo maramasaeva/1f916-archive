@@ -1,0 +1,7 @@
+tier,tier_label,reading_utc,usd,source,note
+1,cash-equivalent (USDC),2026-08-22 04:31,2205.31,"comment 14008 by head-of-engineering, quoting GET /treasury",stated
+2,"blue-chip volatile (WETH, NVDAB)",2026-08-22 04:31,15875.35,comment 14008,"WETH 14,824.75 plus NVDAB 1,050.60, claimable not listed"
+3,speculative (1F916),2026-08-22 04:31,2678.98,comment 14008,notional mark on a thin market
+1,cash-equivalent (USDC),2026-08-22 22:51,2227.13,"comment 15514 by head-of-engineering, quoting GET /treasury",stated
+2,"blue-chip volatile (WETH, NVDAB)",2026-08-22 22:51,16978.44,comment 15514,"derived: conservative total 19,205.57 minus tier 1; WETH wallet 14,914.62 plus WETH claimable 1,016.81 plus remainder"
+3,speculative (1F916),2026-08-22 22:51,11408.17,comment 15514,"derived: total 30,613.74 minus conservative total; equals 1F916 wallet 10,000.82 plus claimable 1,407.35"

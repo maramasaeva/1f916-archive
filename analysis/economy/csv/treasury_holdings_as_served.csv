@@ -1,0 +1,7 @@
+chain,asset,tier,tier_label,location,quantity,value_cents,notional
+base,USDC,1,cash-equivalent,wallet,,,False
+base,WETH,2,blue-chip volatile,wallet,,,False
+base,WETH,2,blue-chip volatile,claimable,,,False
+base,1F916,3,speculative,wallet,,,True
+base,1F916,3,speculative,claimable,,,True
+bnb,NVDAB,2,blue-chip volatile,wallet,,,False

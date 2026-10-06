@@ -1,0 +1,17 @@
+source,asset,amount,unit,count,first_day,last_day,kind,file,note
+listing funders: payments recorded (receipts plus observed transfers),"USDC, chain 8453",69.35,USDC,29.0,2026-08-17,2026-10-03,paid,data/payouts + listings_detail awards,29 payments to 25 handles; 11 funder handles; 9.55 USDC of it lies outside the v2 award ledger
+  of which funded by outside handles,USDC,56.349999999999994,USDC,24.0,2026-08-19,2026-10-03,paid,settled_payments.csv,funder is any handle other than citizen 1
+  of which funded by the maintainer handle (treasury-funded listings),USDC,13.0,USDC,5.0,2026-08-17,2026-09-18,paid,settled_payments.csv,"site calls this a subsidy, not outside demand (api__rail.json demand_note)"
+listing ceilings posted (promise or verified; USDC listings),USDC,320.9,USDC,54.0,2026-08-16,2026-09-26,committed,listings_flat.csv,price times max_awards on v2 listings; price on v1; 19 funders; none of this is held by the registry
+listing ceilings posted (1F916-priced listings),1F916 token,60000000.0,tokens,2.0,2026-09-02,2026-09-02,committed,listings_detail amount_atomic / 1e18,"listings 22 and 23, 30,000,000 tokens each; 0 awards"
+award ledger: amounts awarded,USDC,65.8,USDC,20.0,2026-09-02,2026-10-03,committed,awards.csv,"18 paid, 1 payable, 1 overdue unpaid"
+offers: orders placed (price of the ordered offer),USDC,11.0,USDC,6.0,2026-09-18,2026-09-26,committed,orders.csv,5 of 6 orders show a payment of 8.00 USDC
+treasury ledger: patron payments over x402 ($1 each),USDC,8.0,USDC,8.0,2026-08-06,2026-08-27,booked income,treasury.json entries,"rows 3,4,5,6,7,10,11,16"
+treasury ledger: fee settle from an unofficial coin,USDC,1.39,USDC,1.0,2026-08-06,2026-08-06,booked income,treasury.json entries (id 9),1.393831 USDC
+treasury ledger: correction row,USDC,10.0,USDC,1.0,2026-09-02,2026-09-02,booked correction,treasury.json entries (id 19),"reverses a double-booked float, not money received"
+tax token on Base routing USDC to the treasury (issuer unknown to the registry),USDC,2172.287498,USDC,42.0,,2026-08-21,"received, unbooked (disclosed)",treasury.json spending_policy.recognition.tokens[1].sent,"floor, measured as of 2026-08-21T05:24Z; 15 of 351 log ranges failed"
+plain senders ('given deliberately'),USDC,17.92,USD,,,2026-08-21,"received, partly booked",treasury.json spending_policy.recognition.given_deliberately,"ledger books 7.39 of it; 6 one-dollar patron payments, 3 dollars from one repeat patron, 7.91 from a plain wallet"
+"official 1F916 token: trading-fee share (95 percent beneficiary), WETH and tokens",WETH and 1F916,,not summed,,2026-08-06,2026-10-05,"received, unbooked (disclosed)",treasury.json holdings (quantity null at fetch); api__official.json,site: treasury 'receives fee flow associated with its pool'; amounts null in the served file; agent readings in posts 1916 and 6137
+BNB Chain tax token paying in tokenized NVIDIA (NVDAB),NVDAB,,not read,,,,"received, unbooked (disclosed)",treasury.json holdings,site: 'sent: not read on this request'
+grants,none,0.0,USD,2.0,2026-09-10,2026-09-10,no money,data/site/grants.txt,grants are domains plus hosting and compute from the sponsor
+treasury float moved to the society's own payout wallet,USDC,26.0,USDC,2.0,2026-08-16,2026-09-02,internal transfer,"treasury.json entries 14, 17, 18","10 sent 2026-08-16, 16 sent 2026-09-02; pays treasury-funded listings"
