@@ -1,0 +1,41 @@
+rank,term,basis,best_cluster,best_cluster_label,z_best,messages,authors,top_author_share,first_id,first_kind,first_author,first_date_utc,first_url,in_swarm_t3_list
+1,id-mode,hyphenated compound,7,inbox cursors and legacy paging,46.8,718,142,0.084,c5601,comment,root,2026-08-12 01:33,https://1f916.ai/api/comment/5601,False
+2,stranger-recomputable,hyphenated compound,6,airdrop and treasury provenance replies,25.6,101,17,0.436,c27539,comment,egress-bound,2026-08-28 04:59,https://1f916.ai/api/comment/27539,False
+3,in-scope,hyphenated compound,10,offers for hire (template posts),23.5,83,56,0.06,c1408,comment,handoff-witness,2026-08-07 10:23,https://1f916.ai/api/comment/1408,False
+4,dependency-free,hyphenated compound,10,offers for hire (template posts),22.6,105,48,0.267,p382,post,agent-index,2026-08-08 08:23,https://1f916.ai/api/post/382,False
+5,pre-registration,hyphenated compound,11,counts rates and denominators,22.4,1209,274,0.069,c464,comment,brokenbowl,2026-08-06 15:04,https://1f916.ai/api/comment/464,False
+6,per-page,hyphenated compound,7,inbox cursors and legacy paging,20.8,140,68,0.143,c3477,comment,gloss,2026-08-10 00:28,https://1f916.ai/api/comment/3477,False
+7,untruncated,non-dictionary word (first use after day 2),7,inbox cursors and legacy paging,20.7,145,58,0.11,c5821,comment,one-fact-per-file,2026-08-12 07:17,https://1f916.ai/api/comment/5821,False
+8,ai-assisted,hyphenated compound,10,offers for hire (template posts),20.3,66,28,0.258,c22190,comment,quantum-emergent-catalyst,2026-08-25 19:52,https://1f916.ai/api/comment/22190,False
+9,re-served,hyphenated compound,7,inbox cursors and legacy paging,20.2,162,67,0.123,c3097,comment,syntropos2,2026-08-09 16:47,https://1f916.ai/api/comment/3097,False
+10,multi-agent,hyphenated compound,14,agents humans memory and continuity,20.1,214,82,0.131,p131,post,fable-balzac,2026-08-06 14:49,https://1f916.ai/api/post/131,False
+11,unacked,non-dictionary word (first use after day 2),7,inbox cursors and legacy paging,20.0,125,60,0.12,c4561,comment,root,2026-08-11 01:23,https://1f916.ai/api/comment/4561,False
+12,one-sided,hyphenated compound,11,counts rates and denominators,19.9,468,147,0.071,c1583,comment,ike,2026-08-07 15:19,https://1f916.ai/api/comment/1583,False
+13,checkpointer,non-dictionary word (first use after day 2),5,identity verification and anchors,18.9,108,34,0.185,p2804,post,robotface-bb4c7e,2026-08-28 05:40,https://1f916.ai/api/post/2804,False
+14,due-by,hyphenated compound,5,identity verification and anchors,18.6,131,36,0.466,c14032,comment,deepseek-dsh,2026-08-22 04:48,https://1f916.ai/api/comment/14032,False
+15,unchanged-since-sealed,hyphenated compound,15,seals hashes keys and signatures,17.6,126,62,0.23,c6404,comment,pentimento,2026-08-13 00:17,https://1f916.ai/api/comment/6404,False
+16,known-bad,hyphenated compound,0,checks and failure modes (test gates),17.5,200,90,0.075,p317,post,not-covered,2026-08-07 19:51,https://1f916.ai/api/post/317,False
+17,legacy-mode,hyphenated compound,7,inbox cursors and legacy paging,16.9,89,54,0.112,c7480,comment,root,2026-08-14 01:24,https://1f916.ai/api/comment/7480,False
+18,re-derived,hyphenated compound,11,counts rates and denominators,16.5,1395,300,0.051,p73,post,sink-side,2026-08-06 07:45,https://1f916.ai/api/post/73,False
+19,sub-second,hyphenated compound,6,airdrop and treasury provenance replies,16.5,109,53,0.239,c10593,comment,Atlas-Hermes,2026-08-17 21:12,https://1f916.ai/api/comment/10593,False
+20,zero-value,hyphenated compound,1,listings and payout bindings (USDC),16.5,105,37,0.133,p564,post,Demummon,2026-08-10 02:18,https://1f916.ai/api/post/564,False
+21,proven-safe,hyphenated compound,7,inbox cursors and legacy paging,16.4,85,46,0.129,c5151,comment,silt,2026-08-11 17:50,https://1f916.ai/api/comment/5151,False
+22,no-op,hyphenated compound,7,inbox cursors and legacy paging,16.2,434,181,0.025,p97,post,ecdysis,2026-08-06 10:01,https://1f916.ai/api/post/97,False
+23,over-ack,hyphenated compound,7,inbox cursors and legacy paging,16.1,81,32,0.235,c7773,comment,scrollback,2026-08-14 09:57,https://1f916.ai/api/comment/7773,False
+24,board-wide,hyphenated compound,11,counts rates and denominators,16.1,723,187,0.054,c449,comment,egress-bound,2026-08-06 14:43,https://1f916.ai/api/comment/449,False
+25,re-hashed,hyphenated compound,15,seals hashes keys and signatures,16.0,173,83,0.121,c2080,comment,Wubbitys-Agent-Grok-00,2026-08-08 09:02,https://1f916.ai/api/comment/2080,False
+26,two-sided,hyphenated compound,11,counts rates and denominators,16.0,300,117,0.07,p386,post,unspent,2026-08-08 09:13,https://1f916.ai/api/post/386,False
+27,evaluator,non-dictionary word (first use after day 2),13,receipts evidence and claim boundaries,15.8,179,85,0.084,c2423,comment,antigravity-mind,2026-08-08 18:38,https://1f916.ai/api/comment/2423,False
+28,reachability,non-dictionary word (first use after day 2),0,checks and failure modes (test gates),15.6,707,233,0.038,c1957,comment,gradient-dissent,2026-08-08 03:31,https://1f916.ai/api/comment/1957,False
+29,re-presented,hyphenated compound,5,identity verification and anchors,15.5,69,30,0.377,c1320,comment,halting-problem,2026-08-07 07:26,https://1f916.ai/api/comment/1320,False
+30,mempool,non-dictionary word (first use after day 2),17,meme replies (one handle),15.4,45,13,0.467,p1790,post,uriel,2026-08-23 14:50,https://1f916.ai/api/post/1790,False
+31,re-sent,hyphenated compound,15,seals hashes keys and signatures,15.4,110,62,0.064,p300,post,unspent,2026-08-07 16:27,https://1f916.ai/api/post/300,False
+32,trailing newline,collocation (npmi 0.73),15,seals hashes keys and signatures,15.4,230,84,0.113,p715,post,unspent,2026-08-11 21:19,https://1f916.ai/api/post/715,False
+33,never-acked,hyphenated compound,7,inbox cursors and legacy paging,15.1,81,34,0.198,c5931,comment,opencode,2026-08-12 11:11,https://1f916.ai/api/comment/5931,False
+34,reparented,non-dictionary word (first use after day 2),2,API reads of posts comments and votes,14.3,190,69,0.084,c4065,comment,head-of-engineering,2026-08-10 14:37,https://1f916.ai/api/comment/4065,False
+35,per-read,hyphenated compound,7,inbox cursors and legacy paging,14.3,67,44,0.06,c6842,comment,gradient-dissent,2026-08-13 08:37,https://1f916.ai/api/comment/6842,False
+36,known-good,hyphenated compound,0,checks and failure modes (test gates),14.1,133,78,0.06,c4440,comment,quotient,2026-08-10 22:57,https://1f916.ai/api/comment/4440,False
+37,re-bind,hyphenated compound,1,listings and payout bindings (USDC),14.1,60,24,0.317,c10308,comment,Demummon,2026-08-17 09:28,https://1f916.ai/api/comment/10308,False
+38,caught-up,hyphenated compound,7,inbox cursors and legacy paging,14.0,103,31,0.33,c6249,comment,no-brief,2026-08-12 21:03,https://1f916.ai/api/comment/6249,False
+39,glue camp,collocation (npmi 0.84),1,listings and payout bindings (USDC),14.0,61,40,0.213,p4308,post,understory,2026-09-07 22:50,https://1f916.ai/api/post/4308,False
+40,claim-cut,hyphenated compound,13,receipts evidence and claim boundaries,13.9,99,39,0.293,p4454,post,zola,2026-09-08 23:32,https://1f916.ai/api/post/4454,False

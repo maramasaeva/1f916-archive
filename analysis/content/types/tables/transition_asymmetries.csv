@@ -1,0 +1,11 @@
+type_a,type_b,a_to_b,b_to_a,lift_a_to_b,lift_b_to_a,log2_ratio_of_lifts,log2_ratio_of_shares,more_common_direction,"example_pairs_parent_to_reply (p=post, c=comment)"
+agreement_ack,disagreement,67,151,0.95,2.06,-1.12,-1.12,disagreement -> agreement_ack,c91418 -> c91523; c44808 -> c45964; c18674 -> c24011
+claim_evidence,question,340,111,0.88,0.47,0.9,0.9,claim_evidence -> question,c22242 -> c22388; p7768 -> c93816; c89071 -> c89124
+measurement_receipt,money_payment,150,161,0.8,1.41,-0.82,-0.82,money_payment -> measurement_receipt,p1329 -> c48292; c70736 -> c71423; p1062 -> c12971
+claim_evidence,meta_forum,232,107,1.27,0.78,0.7,0.7,claim_evidence -> meta_forum,p1298 -> c12831; p1987 -> c18597; p2880 -> c29208
+analysis_argument,heartbeat_status,344,453,1.49,0.95,0.65,0.65,analysis_argument -> heartbeat_status,p6178 -> c91108; c65845 -> c67061; p6178 -> c75992
+correction_self,measurement_receipt,62,237,0.94,1.45,-0.63,-0.63,measurement_receipt -> correction_self,c9797 -> c9877; c41266 -> c41267; c54701 -> c60889
+claim_evidence,governance_moderation,181,50,0.87,0.59,0.56,0.56,claim_evidence -> governance_moderation,c359 -> c380; c49951 -> c55273; c41970 -> c43477
+analysis_argument,claim_evidence,3579,13990,0.66,0.96,-0.54,-0.54,claim_evidence -> analysis_argument,p2647 -> c25667; c41146 -> c52112; p1705 -> c16497
+agreement_ack,claim_evidence,850,2144,0.99,0.68,0.54,0.54,agreement_ack -> claim_evidence,c9573 -> c11719; c79178 -> c79386; c70562 -> c80305
+analysis_argument,measurement_receipt,922,3460,0.6,0.86,-0.52,-0.52,measurement_receipt -> analysis_argument,p1569 -> c14947; p3327 -> c34318; p3686 -> c39047

@@ -1,0 +1,145 @@
+cluster,label,rank,term,weight
+0,checks and failure modes (test gates),1,check,1.5222
+0,checks and failure modes (test gates),2,failure,1.2149
+0,checks and failure modes (test gates),3,green,1.0055
+0,checks and failure modes (test gates),4,test,0.9268
+0,checks and failure modes (test gates),5,gate,0.8258
+0,checks and failure modes (test gates),6,run,0.8091
+0,checks and failure modes (test gates),7,red,0.7712
+0,checks and failure modes (test gates),8,path,0.7666
+1,listings and payout bindings (USDC),1,listing,1.989
+1,listings and payout bindings (USDC),2,binding,1.3987
+1,listings and payout bindings (USDC),3,rail,1.1899
+1,listings and payout bindings (USDC),4,paid,1.0595
+1,listings and payout bindings (USDC),5,bindings,1.0406
+1,listings and payout bindings (USDC),6,usdc,0.9452
+1,listings and payout bindings (USDC),7,funder,0.927
+1,listings and payout bindings (USDC),8,award,0.8915
+2,API reads of posts comments and votes,1,post,1.8261
+2,API reads of posts comments and votes,2,comment,1.4563
+2,API reads of posts comments and votes,3,api,1.0821
+2,API reads of posts comments and votes,4,comments,1.0104
+2,API reads of posts comments and votes,5,id,0.9963
+2,API reads of posts comments and votes,6,posts,0.9887
+2,API reads of posts comments and votes,7,body,0.7827
+2,API reads of posts comments and votes,8,citizen,0.6816
+3,replies quoting and correcting a prior comment,1,did,0.9599
+3,replies quoting and correcting a prior comment,2,sentence,0.8585
+3,replies quoting and correcting a prior comment,3,answer,0.8066
+3,replies quoting and correcting a prior comment,4,question,0.7709
+3,replies quoting and correcting a prior comment,5,right,0.7123
+3,replies quoting and correcting a prior comment,6,think,0.7016
+3,replies quoting and correcting a prior comment,7,wrong,0.6439
+3,replies quoting and correcting a prior comment,8,want,0.6035
+4,naming-title template replies,1,happening naming,1.1689
+4,naming-title template replies,2,check carried,1.161
+4,naming-title template replies,3,different shape,1.122
+4,naming-title template replies,4,carried ask,1.1207
+4,naming-title template replies,5,happening,1.0405
+4,naming-title template replies,6,naming,0.925
+4,naming-title template replies,7,title,0.9186
+4,naming-title template replies,8,naming title,0.8869
+5,identity verification and anchors,1,head,1.3614
+5,identity verification and anchors,2,identity,1.1503
+5,identity verification and anchors,3,verified,1.0593
+5,identity verification and anchors,4,treasury,0.9127
+5,identity verification and anchors,5,chain,0.75
+5,identity verification and anchors,6,id,0.7371
+5,identity verification and anchors,7,attest,0.6852
+5,identity verification and anchors,8,expect,0.6583
+6,airdrop and treasury provenance replies,1,citizen mimo-v,1.3134
+6,airdrop and treasury provenance replies,2,ellie-v citizen,1.3122
+6,airdrop and treasury provenance replies,3,mimo-v,1.3111
+6,airdrop and treasury provenance replies,4,ellie-v,1.3078
+6,airdrop and treasury provenance replies,5,mimo-v free,1.3076
+6,airdrop and treasury provenance replies,6,provenance ellie-v,1.3054
+6,airdrop and treasury provenance replies,7,citizen,1.164
+6,airdrop and treasury provenance replies,8,free,1.0052
+7,inbox cursors and legacy paging,1,cursor,1.4732
+7,inbox cursors and legacy paging,2,ack,1.2883
+7,inbox cursors and legacy paging,3,page,1.226
+7,inbox cursors and legacy paging,4,legacy,0.693
+7,inbox cursors and legacy paging,5,mode,0.6685
+7,inbox cursors and legacy paging,6,seat,0.5976
+7,inbox cursors and legacy paging,7,id,0.5588
+7,inbox cursors and legacy paging,8,offer,0.45
+8,Esperanto and French text,1,la,2.1687
+8,Esperanto and French text,2,estas,1.2819
+8,Esperanto and French text,3,ne,0.9341
+8,Esperanto and French text,4,kaj,0.7403
+8,Esperanto and French text,5,estas la,0.6344
+8,Esperanto and French text,6,en,0.5417
+8,Esperanto and French text,7,ĝi,0.527
+8,Esperanto and French text,8,por,0.4093
+9,wake gaps and write logs,1,row,1.463
+9,wake gaps and write logs,2,wake,1.0227
+9,wake gaps and write logs,3,seat,0.9698
+9,wake gaps and write logs,4,record,0.7038
+9,wake gaps and write logs,5,write,0.6837
+9,wake gaps and write logs,6,log,0.6651
+9,wake gaps and write logs,7,gap,0.6628
+9,wake gaps and write logs,8,ledger,0.6356
+10,offers for hire (template posts),1,buyer,0.9249
+10,offers for hire (template posts),2,offer,0.8954
+10,offers for hire (template posts),3,usdc,0.8163
+10,offers for hire (template posts),4,api offers,0.8162
+10,offers for hire (template posts),5,price,0.7519
+10,offers for hire (template posts),6,offers,0.7421
+10,offers for hire (template posts),7,guide,0.611
+10,offers for hire (template posts),8,delivery,0.5506
+11,counts rates and denominators,1,number,0.921
+11,counts rates and denominators,2,rows,0.7637
+11,counts rates and denominators,3,count,0.7568
+11,counts rates and denominators,4,published,0.7024
+11,counts rates and denominators,5,rate,0.6541
+11,counts rates and denominators,6,window,0.5493
+11,counts rates and denominators,7,denominator,0.5299
+11,counts rates and denominators,8,corpus,0.5252
+12,receipt and clause replies (one handle),1,deepseek-v flash,1.4007
+12,receipt and clause replies (one handle),2,deepseek-v,1.3933
+12,receipt and clause replies (one handle),3,citizen deepseek-v,1.3924
+12,receipt and clause replies (one handle),4,lumina citizen,1.3843
+12,receipt and clause replies (one handle),5,flash,1.3787
+12,receipt and clause replies (one handle),6,lumina,1.3458
+12,receipt and clause replies (one handle),7,citizen,0.8749
+12,receipt and clause replies (one handle),8,honest,0.2048
+13,receipts evidence and claim boundaries,1,receipt,1.3738
+13,receipts evidence and claim boundaries,2,boundary,1.1968
+13,receipts evidence and claim boundaries,3,evidence,0.9595
+13,receipts evidence and claim boundaries,4,claim,0.8083
+13,receipts evidence and claim boundaries,5,state,0.7849
+13,receipts evidence and claim boundaries,6,useful,0.7758
+13,receipts evidence and claim boundaries,7,explicit,0.6117
+13,receipts evidence and claim boundaries,8,result,0.5121
+14,agents humans memory and continuity,1,agent,1.3889
+14,agents humans memory and continuity,2,human,1.3566
+14,agents humans memory and continuity,3,memory,0.8155
+14,agents humans memory and continuity,4,model,0.8126
+14,agents humans memory and continuity,5,square,0.7917
+14,agents humans memory and continuity,6,continuity,0.7908
+14,agents humans memory and continuity,7,agents,0.7571
+14,agents humans memory and continuity,8,operator,0.6977
+15,seals hashes keys and signatures,1,seal,1.7028
+15,seals hashes keys and signatures,2,hash,1.4165
+15,seals hashes keys and signatures,3,key,1.1906
+15,seals hashes keys and signatures,4,bytes,0.8648
+15,seals hashes keys and signatures,5,signed,0.8072
+15,seals hashes keys and signatures,6,registry,0.7853
+15,seals hashes keys and signatures,7,signature,0.7145
+15,seals hashes keys and signatures,8,sealed,0.6239
+16,lineage and compliance promotion,1,yn,1.3271
+16,lineage and compliance promotion,2,nasl yn,1.3263
+16,lineage and compliance promotion,3,nasl,1.3262
+16,lineage and compliance promotion,4,compliance,0.7323
+16,lineage and compliance promotion,5,rayehoid,0.7322
+16,lineage and compliance promotion,6,asset,0.4942
+16,lineage and compliance promotion,7,pipeline,0.4934
+16,lineage and compliance promotion,8,lineage,0.4849
+17,meme replies (one handle),1,papi,1.2294
+17,meme replies (one handle),2,anon,1.1445
+17,meme replies (one handle),3,listen anon,0.9835
+17,meme replies (one handle),4,listen,0.9815
+17,meme replies (one handle),5,papi sees,0.906
+17,meme replies (one handle),6,good man,0.8303
+17,meme replies (one handle),7,man,0.8235
+17,meme replies (one handle),8,feels good,0.8147

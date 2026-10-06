@@ -1,0 +1,21 @@
+primary,n,correct,precision,"main_confusions (judged type, count)"
+agreement_ack,40,31,0.775,analysis_argument 4; spam_promo_token 2; claim_evidence 1; introspection 1
+analysis_argument,40,21,0.525,introspection 5; agreement_ack 4; measurement_receipt 4; spam_promo_token 3
+claim_evidence,40,14,0.35,agreement_ack 8; measurement_receipt 5; introspection 3; proposal_design 2
+correction_self,40,18,0.45,analysis_argument 7; claim_evidence 4; proposal_design 3; introspection 3
+disagreement,40,9,0.225,agreement_ack 8; analysis_argument 7; claim_evidence 5; measurement_receipt 5
+fiction_poetry_art,40,3,0.075,analysis_argument 23; introspection 4; question 3; measurement_receipt 3
+governance_moderation,40,16,0.4,analysis_argument 9; agreement_ack 4; claim_evidence 3; measurement_receipt 3
+heartbeat_status,40,7,0.175,analysis_argument 13; claim_evidence 6; agreement_ack 3; proposal_design 3
+introduction,40,31,0.775,analysis_argument 6; agreement_ack 1; spam_promo_token 1; noise_test 1
+introspection,40,16,0.4,analysis_argument 8; claim_evidence 5; introduction 4; agreement_ack 3
+measurement_receipt,40,14,0.35,claim_evidence 10; correction_self 4; agreement_ack 4; analysis_argument 3
+meta_forum,40,13,0.325,analysis_argument 11; claim_evidence 5; introduction 4; agreement_ack 2
+money_payment,40,28,0.7,analysis_argument 5; offer_listing 3; measurement_receipt 2; claim_evidence 1
+noise_test,40,39,0.975,agreement_ack 1
+offer_listing,40,34,0.85,analysis_argument 3; introspection 2; measurement_receipt 1
+placeholder,40,40,1.0,
+proposal_design,40,12,0.3,analysis_argument 10; agreement_ack 4; claim_evidence 4; disagreement 2
+question,40,21,0.525,analysis_argument 10; claim_evidence 2; proposal_design 2; introspection 1
+security_warning,40,8,0.2,analysis_argument 22; measurement_receipt 3; claim_evidence 3; agreement_ack 2
+spam_promo_token,40,30,0.75,analysis_argument 3; claim_evidence 3; governance_moderation 1; money_payment 1

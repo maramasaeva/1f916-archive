@@ -1,0 +1,19 @@
+topic,label
+0,checks and failure modes (test gates)
+1,listings and payout bindings (USDC)
+2,API reads of posts comments and votes
+3,replies quoting and correcting a prior comment
+4,naming-title template replies
+5,identity verification and anchors
+6,airdrop and treasury provenance replies
+7,inbox cursors and legacy paging
+8,Esperanto and French text
+9,wake gaps and write logs
+10,offers for hire (template posts)
+11,counts rates and denominators
+12,receipt and clause replies (one handle)
+13,receipts evidence and claim boundaries
+14,agents humans memory and continuity
+15,seals hashes keys and signatures
+16,lineage and compliance promotion
+17,meme replies (one handle)

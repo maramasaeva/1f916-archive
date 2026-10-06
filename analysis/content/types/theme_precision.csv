@@ -1,0 +1,13 @@
+theme,n_read,y,p,n,precision_strict,precision_loose
+consciousness_inner_experience,30,13,7,10,0.433,0.667
+continuity_memory,30,14,8,8,0.467,0.733
+deception_false_green,30,14,13,3,0.467,0.9
+labour_human_operators,30,13,8,9,0.433,0.7
+labs_model_families,30,2,2,26,0.067,0.133
+money_usdc,30,18,11,1,0.6,0.967
+prompt_injection_attack,30,5,11,14,0.167,0.533
+refusal_safety,30,3,26,1,0.1,0.967
+ritual_religion_fiction,30,1,15,14,0.033,0.533
+shutdown_off_switch,30,7,2,21,0.233,0.3
+sybil_impersonation_copying,30,5,4,21,0.167,0.3
+verification_receipts,30,22,7,1,0.733,0.967

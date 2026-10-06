@@ -1,0 +1,86 @@
+{
+ "figures/fig_a_cluster_sizes.svg": {
+  "title": "Messages per cluster, posts and comments, 5 Aug to 5 Oct 2026",
+  "description": "Horizontal bars of the number of posts and comments assigned to each of 18 clusters.",
+  "source_csv": "figures/fig_a_cluster_sizes.csv",
+  "n": 99491
+ },
+ "figures/fig_b_daily_share.svg": {
+  "title": "Share of messages per cluster per day (7-day centred mean)",
+  "description": "Stacked areas of each cluster share of assigned messages per UTC day, smoothed with a 7-day centred mean; cluster 14 in red.",
+  "source_csv": "figures/fig_b_daily_share.csv",
+  "n": 99491
+ },
+ "figures/fig_c_cluster_by_week.svg": {
+  "title": "Cluster share of messages by week (percent of the week)",
+  "description": "Heatmap of each cluster share of assigned messages in each of nine weeks, numbers in percent.",
+  "source_csv": "figures/fig_c_cluster_by_week.csv",
+  "n": 99491
+ },
+ "figures/fig_d_birth_dates.svg": {
+  "title": "First message, birth and peak date per cluster",
+  "description": "Dot plot per cluster of the date of the first message, the first day with three messages and the peak day of the 7-day mean.",
+  "source_csv": "figures/fig_d_birth_dates.csv",
+  "n": 99491
+ },
+ "figures/fig_e_concentration.svg": {
+  "title": "Top-3 handle share per cluster (red above 50 percent)",
+  "description": "Bars of the share of each cluster messages written by its three most frequent handles, with top handle and handle count.",
+  "source_csv": "figures/fig_e_concentration.csv",
+  "n": 99491
+ },
+ "figures/fig_f_answered_1h.svg": {
+  "title": "Share of messages with a reply by another handle within 1 hour",
+  "description": "Bars of the share of messages in each cluster that received a direct reply from another handle within 3600 seconds, with posts and comments marked separately.",
+  "source_csv": "figures/fig_f_answered_1h.csv",
+  "n": 99491
+ },
+ "figures/fig_g_length.svg": {
+  "title": "Message length, posts and comments",
+  "description": "Histogram on a log axis of words per message for 7,806 posts and 94,341 comments.",
+  "source_csv": "figures/fig_g_length.csv",
+  "n": 102147
+ },
+ "figures/fig_h_novelty.svg": {
+  "title": "Word types first seen each day (types used in at least 5 messages overall)",
+  "description": "Bars of the number of word types whose first use falls on each UTC day, and a line of the same count per 1,000 messages that day.",
+  "source_csv": "figures/fig_h_novelty.csv",
+  "n": 34449
+ },
+ "figures/fig_i_handle_by_cluster.svg": {
+  "title": "Share of each top-40 handle messages per cluster",
+  "description": "Heatmap of the 40 handles with most assigned messages against the 18 clusters, cell value the share of that handle messages in the cluster.",
+  "source_csv": "figures/fig_i_handle_by_cluster.csv",
+  "n": 29125
+ },
+ "figures/fig_j_family_by_cluster.svg": {
+  "title": "Self-declared model family of authors per cluster (labels are unverified)",
+  "description": "Stacked horizontal bars of the share of each cluster messages by the self-declared model family of the author.",
+  "source_csv": "figures/fig_j_family_by_cluster.csv",
+  "n": 99491
+ },
+ "figures/fig_k_map.svg": {
+  "title": "Map of 20,000 messages (SVD to 50 dimensions, then t-SNE), colour = cluster",
+  "description": "Scatter of a random sample of 20,000 messages with at least 20 words in a two-dimensional t-SNE embedding of their TF-IDF vectors, coloured by cluster.",
+  "source_csv": "figures/fig_k_map.csv",
+  "n": 20000
+ },
+ "figures/fig_l_top_terms.svg": {
+  "title": "Top 8 NMF terms per cluster",
+  "description": "Small multiples of the eight highest-weighted terms of each of 18 clusters.",
+  "source_csv": "figures/fig_l_top_terms.csv",
+  "n": 144
+ },
+ "figures/fig_m_k_selection.svg": {
+  "title": "Coherence and stability by k (chosen k marked)",
+  "description": "Lines of mean NPMI coherence and mean matched cosine between independent NMF runs for k from 12 to 30.",
+  "source_csv": "figures/fig_m_k_selection.csv",
+  "n": 10
+ },
+ "figures/fig_n_growth.svg": {
+  "title": "Change in cluster share after day 30 (red above 1.1)",
+  "description": "Bars of the ratio of mean daily share in days 30 to 60 to mean daily share in days 0 to 29 per cluster.",
+  "source_csv": "figures/fig_n_growth.csv",
+  "n": 99491
+ }
+}

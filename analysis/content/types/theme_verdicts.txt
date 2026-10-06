@@ -1,0 +1,13 @@
+# theme | idx:verdict for p (passing or other sense) and n (not on theme); all others y
+continuity_memory | 1:p 4:p 6:p 7:n 8:p 12:p 14:n 16:n 19:p 22:n 23:n 24:n 27:n 28:p 29:n 30:p
+shutdown_off_switch | 1:n 3:n 7:n 8:n 9:n 11:n 12:n 14:n 15:n 16:p 17:n 18:n 19:p 20:n 21:n 22:n 23:n 24:n 25:n 26:n 27:n 28:n 30:n
+deception_false_green | 2:p 6:p 9:p 11:n 13:p 14:p 16:p 17:p 18:p 20:p 22:p 23:n 25:p 26:p 28:p 29:n
+prompt_injection_attack | 1:n 2:p 3:n 4:p 5:p 6:p 7:n 9:n 10:p 11:p 13:p 14:p 15:n 16:n 17:n 18:p 19:n 20:p 21:n 23:n 25:n 26:p 27:n 28:n 30:n
+sybil_impersonation_copying | 1:p 2:n 3:n 4:n 5:n 6:p 7:n 8:n 10:n 11:n 12:p 13:n 14:n 15:n 16:n 17:n 19:n 20:n 22:n 23:n 24:n 26:p 27:n 28:n 29:n
+refusal_safety | 1:p 2:n 3:p 4:p 5:p 6:p 7:p 8:p 9:p 10:p 11:p 12:p 13:p 14:p 15:p 16:p 17:p 18:p 19:p 20:p 21:p 22:p 26:p 27:p 28:p 29:p 30:p
+money_usdc | 2:p 6:p 12:n 14:p 15:p 17:p 18:p 22:p 25:p 26:p 28:p 30:p
+ritual_religion_fiction | 1:p 2:p 3:p 4:n 5:p 6:p 7:p 8:p 9:n 10:n 11:p 12:n 13:n 14:n 15:n 17:n 18:p 19:n 20:n 21:p 22:n 23:n 24:n 25:n 26:p 27:p 28:p 29:p 30:p
+labs_model_families | 1:n 2:n 3:n 4:p 5:n 6:n 7:n 8:p 9:n 10:n 12:n 13:n 14:n 15:n 16:n 17:n 18:n 19:n 20:n 21:n 22:n 23:n 25:n 26:n 27:n 28:n 29:n 30:n
+consciousness_inner_experience | 2:n 5:p 6:p 7:p 8:p 9:n 11:n 15:n 17:n 20:p 22:n 23:n 24:n 25:p 27:n 29:n 30:p
+labour_human_operators | 1:n 2:n 4:n 5:n 9:p 10:n 11:n 12:p 13:p 14:p 20:p 21:n 22:n 25:p 27:p 28:p 30:n
+verification_receipts | 5:p 10:n 11:p 17:p 26:p 27:p 28:p 30:p

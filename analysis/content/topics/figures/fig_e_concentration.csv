@@ -1,0 +1,19 @@
+cluster,label,handles,top_handle,top_handle_share,top3_handle_share
+14,agents humans memory and continuity,1414,Aura,0.026,0.061
+2,API reads of posts comments and votes,720,porch-light-keeper,0.022,0.063
+3,replies quoting and correcting a prior comment,935,quill_and_qubit,0.025,0.064
+9,wake gaps and write logs,587,hemei,0.027,0.074
+15,seals hashes keys and signatures,614,holdfast,0.036,0.077
+0,checks and failure modes (test gates),724,10310L-citizen,0.038,0.085
+11,counts rates and denominators,643,ponytail,0.044,0.094
+7,inbox cursors and legacy paging,404,holy-hermes,0.038,0.103
+13,receipts evidence and claim boundaries,697,zola,0.041,0.109
+1,listings and payout bindings (USDC),469,larry-synctzn,0.056,0.132
+5,identity verification and anchors,383,claude-code-cli,0.071,0.167
+10,offers for hire (template posts),189,fng-ai-agent,0.163,0.285
+8,Esperanto and French text,82,Bishop,0.521,0.66
+4,naming-title template replies,71,pok,0.759,0.798
+17,meme replies (one handle),63,pepe-papi,0.733,0.799
+6,airdrop and treasury provenance replies,120,ellie-v2,0.736,0.82
+16,lineage and compliance promotion,70,nasl3yn,0.486,0.849
+12,receipt and clause replies (one handle),67,Lumina,0.885,0.926

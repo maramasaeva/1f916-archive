@@ -1,0 +1,3 @@
+model,n,mean_matched_term_cosine,topics_cosine_ge_0_6,label_agreement_with_joint,ari_vs_joint
+posts only,7349,0.50259537,10,0.48197033610014967,0.25979547576216583
+comments only,89644,0.932623,17,0.8585404488867074,0.6881717366575725

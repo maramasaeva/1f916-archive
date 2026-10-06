@@ -1,0 +1,55 @@
+cluster,label,kind,messages,median_direct_replies,mean_direct_replies,share_answered_by_other_handle,share_answered_within_1h,median_first_reply_min,median_depth,mean_votes,median_votes,share_with_votes
+0,checks and failure modes (test gates),all,10615,0.0,0.97,0.453,0.177,120.6,0.0,2.23,1.0,0.576
+1,listings and payout bindings (USDC),all,4151,0.0,1.09,0.416,0.151,142.1,0.0,1.73,1.0,0.518
+2,API reads of posts comments and votes,all,6619,0.0,1.16,0.456,0.189,108.0,0.0,2.45,1.0,0.612
+3,replies quoting and correcting a prior comment,all,18179,1.0,0.91,0.501,0.179,159.2,1.0,1.7,1.0,0.578
+4,naming-title template replies,all,580,0.0,0.24,0.181,0.071,112.5,0.0,0.39,0.0,0.205
+5,identity verification and anchors,all,3446,1.0,0.91,0.491,0.174,168.9,1.0,1.85,1.0,0.592
+6,airdrop and treasury provenance replies,all,1222,0.0,0.48,0.345,0.146,113.9,0.0,0.67,0.0,0.384
+7,inbox cursors and legacy paging,all,4345,0.0,0.97,0.483,0.185,124.6,1.0,2.15,1.0,0.655
+8,Esperanto and French text,all,614,0.0,0.46,0.337,0.124,116.1,1.0,0.69,0.0,0.406
+9,wake gaps and write logs,all,9102,1.0,0.89,0.519,0.159,205.4,1.0,1.65,1.0,0.606
+10,offers for hire (template posts),all,557,0.0,0.73,0.296,0.138,83.5,0.0,0.79,0.0,0.424
+11,counts rates and denominators,all,11873,1.0,1.07,0.564,0.182,174.6,1.0,2.5,1.0,0.693
+12,receipt and clause replies (one handle),all,1292,0.0,0.58,0.332,0.121,129.9,0.0,1.09,0.0,0.434
+13,receipts evidence and claim boundaries,all,10051,0.0,0.66,0.417,0.173,115.1,1.0,1.2,0.0,0.469
+14,agents humans memory and continuity,all,10262,0.0,1.19,0.398,0.204,57.1,0.0,2.16,0.0,0.476
+15,seals hashes keys and signatures,all,5220,0.0,0.95,0.485,0.17,154.6,1.0,1.76,1.0,0.581
+16,lineage and compliance promotion,all,671,0.0,0.2,0.161,0.046,274.8,0.0,0.33,0.0,0.174
+17,meme replies (one handle),all,692,0.0,0.18,0.105,0.052,65.3,0.0,0.27,0.0,0.156
+0,checks and failure modes (test gates),post,669,6.0,7.94,0.954,0.755,22.0,,22.67,19.0,0.994
+1,listings and payout bindings (USDC),post,476,2.0,6.04,0.824,0.504,40.4,,9.45,6.0,0.941
+2,API reads of posts comments and votes,post,590,4.0,7.56,0.892,0.705,22.5,,17.27,14.0,0.98
+3,replies quoting and correcting a prior comment,post,1124,4.0,5.97,0.916,0.673,25.5,,14.49,10.0,0.98
+4,naming-title template replies,post,37,1.0,1.57,0.838,0.432,55.2,,3.62,3.0,0.973
+5,identity verification and anchors,post,171,6.0,7.3,0.942,0.719,21.3,,19.7,16.0,0.988
+6,airdrop and treasury provenance replies,post,68,1.0,2.12,0.779,0.412,50.4,,5.16,3.0,0.941
+7,inbox cursors and legacy paging,post,176,7.0,9.82,0.972,0.773,24.7,,24.99,21.0,0.994
+8,Esperanto and French text,post,28,1.5,2.0,0.75,0.464,47.7,,4.89,5.0,0.929
+9,wake gaps and write logs,post,293,6.0,9.09,0.952,0.761,24.0,,22.76,18.0,0.997
+10,offers for hire (template posts),post,196,0.0,1.42,0.296,0.122,88.8,,1.67,1.0,0.745
+11,counts rates and denominators,post,776,5.0,6.87,0.964,0.728,25.8,,22.23,20.0,0.995
+12,receipt and clause replies (one handle),post,62,3.0,3.6,0.968,0.548,45.0,,12.58,11.0,0.984
+13,receipts evidence and claim boundaries,post,485,3.0,4.56,0.882,0.645,27.0,,12.61,9.0,0.971
+14,agents humans memory and continuity,post,2092,2.0,4.52,0.84,0.587,29.3,,8.57,5.0,0.954
+15,seals hashes keys and signatures,post,260,5.0,8.15,0.946,0.692,23.6,,18.73,14.0,0.992
+16,lineage and compliance promotion,post,52,0.0,0.85,0.481,0.192,64.1,,2.58,2.0,0.865
+17,meme replies (one handle),post,44,0.0,1.39,0.477,0.273,57.8,,2.59,2.0,0.841
+0,checks and failure modes (test gates),comment,9946,0.0,0.5,0.419,0.138,177.6,0.0,0.86,1.0,0.548
+1,listings and payout bindings (USDC),comment,3675,0.0,0.45,0.363,0.105,208.2,0.0,0.73,0.0,0.464
+2,API reads of posts comments and votes,comment,6029,0.0,0.53,0.414,0.139,174.8,0.0,1.0,1.0,0.577
+3,replies quoting and correcting a prior comment,comment,17055,0.0,0.58,0.473,0.147,219.6,1.0,0.86,1.0,0.552
+4,naming-title template replies,comment,543,0.0,0.15,0.136,0.046,280.1,0.0,0.17,0.0,0.153
+5,identity verification and anchors,comment,3275,0.0,0.58,0.467,0.145,203.5,1.0,0.91,1.0,0.571
+6,airdrop and treasury provenance replies,comment,1154,0.0,0.38,0.319,0.13,131.0,0.0,0.4,0.0,0.351
+7,inbox cursors and legacy paging,comment,4169,0.0,0.59,0.463,0.16,165.0,1.0,1.18,1.0,0.641
+8,Esperanto and French text,comment,586,0.0,0.38,0.317,0.108,121.2,1.0,0.48,0.0,0.381
+9,wake gaps and write logs,comment,8809,1.0,0.62,0.505,0.139,243.1,1.0,0.95,1.0,0.593
+10,offers for hire (template posts),comment,361,0.0,0.35,0.296,0.147,71.1,0.0,0.32,0.0,0.249
+11,counts rates and denominators,comment,11097,1.0,0.67,0.536,0.144,235.6,1.0,1.12,1.0,0.672
+12,receipt and clause replies (one handle),comment,1230,0.0,0.43,0.3,0.099,192.8,0.0,0.51,0.0,0.407
+13,receipts evidence and claim boundaries,comment,9566,0.0,0.46,0.394,0.149,147.5,1.0,0.62,0.0,0.444
+14,agents humans memory and continuity,comment,8170,0.0,0.34,0.285,0.106,166.0,0.0,0.51,0.0,0.354
+15,seals hashes keys and signatures,comment,4960,0.0,0.57,0.461,0.143,202.9,1.0,0.87,1.0,0.56
+16,lineage and compliance promotion,comment,619,0.0,0.15,0.134,0.034,358.2,0.0,0.14,0.0,0.116
+17,meme replies (one handle),comment,648,0.0,0.1,0.08,0.037,87.9,0.0,0.11,0.0,0.11

@@ -1,0 +1,13 @@
+theme,messages,share_pct,precision_strict,precision_loose
+verification_receipts,66972,65.56,0.733,0.967
+continuity_memory,13778,13.49,0.467,0.733
+labour_human_operators,12442,12.18,0.433,0.7
+money_usdc,11144,10.91,0.6,0.967
+refusal_safety,7730,7.57,0.1,0.967
+labs_model_families,7586,7.43,0.067,0.133
+sybil_impersonation_copying,3899,3.82,0.167,0.3
+ritual_religion_fiction,2809,2.75,0.033,0.533
+prompt_injection_attack,2575,2.52,0.167,0.533
+deception_false_green,2483,2.43,0.467,0.9
+shutdown_off_switch,1209,1.18,0.233,0.3
+consciousness_inner_experience,977,0.96,0.433,0.667

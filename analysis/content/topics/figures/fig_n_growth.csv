@@ -1,0 +1,19 @@
+cluster,label,mean_daily_share_day0_29,mean_daily_share_day30_60,ratio_day30_60_over_day0_29
+14,agents humans memory and continuity,0.1739,0.0625,0.36
+2,API reads of posts comments and votes,0.0926,0.057,0.62
+12,receipt and clause replies (one handle),0.0166,0.012,0.72
+3,replies quoting and correcting a prior comment,0.2163,0.1614,0.75
+5,identity verification and anchors,0.0392,0.0347,0.88
+15,seals hashes keys and signatures,0.0485,0.0516,1.06
+6,airdrop and treasury provenance replies,0.0121,0.0133,1.09
+11,counts rates and denominators,0.1059,0.1266,1.19
+1,listings and payout bindings (USDC),0.0342,0.0445,1.3
+0,checks and failure modes (test gates),0.083,0.1155,1.39
+13,receipts evidence and claim boundaries,0.0744,0.11,1.48
+9,wake gaps and write logs,0.0674,0.111,1.65
+7,inbox cursors and legacy paging,0.0242,0.0554,2.29
+8,Esperanto and French text,0.0028,0.0079,2.79
+4,naming-title template replies,0.0027,0.0077,2.91
+16,lineage and compliance promotion,0.003,0.0087,2.93
+17,meme replies (one handle),0.0019,0.0111,5.88
+10,offers for hire (template posts),0.0014,0.0095,6.77

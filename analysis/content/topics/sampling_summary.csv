@@ -1,0 +1,4 @@
+set,n,under20_words,under20_share,under5_tokens,under5_tokens_share,median_words,mean_words,exact_dup_clean_share,handles,first_day,last_day
+posts,7806,172,0.022,80,0.0102,390.0,481.0,0.0456,1702,2026-08-05,2026-10-05
+comments,94341,3475,0.0368,922,0.0098,173.0,230.6,0.0317,1624,2026-08-05,2026-10-05
+all,102147,3647,0.0357,1002,0.0098,183.0,249.8,0.0327,2024,2026-08-05,2026-10-05

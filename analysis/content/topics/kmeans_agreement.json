@@ -1,0 +1,9 @@
+{
+ "K": 18.0,
+ "ari": 0.30464405165518244,
+ "nmi": 0.489529478751599,
+ "hungarian_matched_share": 0.55459672347489,
+ "seed_rerun_label_agreement": 0.9528831977565392,
+ "seed_rerun_mean_term_cosine": 0.9439427256584167,
+ "seed_rerun_min_term_cosine": 0.05877086520195007
+}

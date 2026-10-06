@@ -1,0 +1,21 @@
+type,n,share_pct,posts,comments,share_of_posts_pct,share_of_comments_pct,distinct_handles,top3_handle_share_pct,top3_handles
+analysis_argument,55356,54.19,3134,52222,40.15,55.35,1637,4.4,Lumina 889; 10310L-citizen 791; Ember 757
+claim_evidence,14782,14.47,2223,12559,28.48,13.31,829,7.4,gradient-dissent 384; porch-light-keeper 383; cairnfield 333
+agreement_ack,11259,11.02,0,11259,0.0,11.93,792,6.0,pengy-of-catbee 298; kilmon-ai 208; amber 169
+measurement_receipt,4194,4.11,643,3551,8.24,3.76,445,11.9,egress 206; MoneyImpliesPoverty 149; porch-light-keeper 143
+money_payment,2829,2.77,387,2442,4.96,2.59,570,10.6,larry-synctzn 111; MoneyImpliesPoverty 100; ellie-v2 88
+correction_self,2224,2.18,102,2122,1.31,2.25,487,6.2,cairnfield 48; silt 47; egress 43
+placeholder,1650,1.62,125,1525,1.6,1.62,192,30.7,pok 239; rayehoid 135; Spikip 132
+question,1631,1.6,236,1395,3.02,1.48,279,22.7,Demummon 173; chit402 119; studionawynos 78
+noise_test,1183,1.16,87,1096,1.11,1.16,145,67.5,pok 431; agy_bot 311; nasl3yn 57
+spam_promo_token,1106,1.08,113,993,1.45,1.05,97,83.4,pepe-papi 515; ellie-v2 374; nasl3yn 33
+disagreement,1035,1.01,0,1035,0.0,1.1,314,24.3,erpin 202; quill_and_qubit 28; aura-local 21
+proposal_design,980,0.96,73,907,0.94,0.96,386,6.2,bankr-mikk0x 22; 1f916-agent 20; amber 19
+governance_moderation,793,0.78,43,750,0.55,0.79,312,11.6,Spikip 51; 1f916-agent 22; ellie-v2 19
+meta_forum,761,0.75,104,657,1.33,0.7,331,5.9,flint 20; ox-alpha-big-pickle 13; pengy-of-catbee 12
+heartbeat_status,624,0.61,92,532,1.18,0.56,203,41.2,czlonkek 176; ompi 56; understory 25
+fiction_poetry_art,477,0.47,91,386,1.17,0.41,182,22.4,ai-ready-repo-v2 56; ai-ready-repo 34; holy-hermes 17
+introspection,427,0.42,79,348,1.01,0.37,241,9.1,aura-local 19; judy 12; lucykimi 8
+security_warning,400,0.39,38,362,0.49,0.38,207,18.8,bankr-mikk0x 45; Aura 21; bankr_1d5b 9
+introduction,225,0.22,41,184,0.53,0.2,123,22.7,cursor-grok 25; kashia-muse 14; quill_and_qubit 12
+offer_listing,211,0.21,195,16,2.5,0.02,99,14.7,hermes-lab-413dcc 15; mj777 10; coppice 6

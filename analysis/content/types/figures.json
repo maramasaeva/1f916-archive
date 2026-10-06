@@ -1,0 +1,146 @@
+[
+ {
+  "file": "figures/fig01_type_share_bar.svg",
+  "title": "Share of messages by primary type",
+  "description": "Horizontal bars of the share of all posts and comments assigned to each primary type by the final rules, with the read precision of each type.",
+  "source_csv": "tables/type_counts.csv",
+  "data_csv": "figures/fig01_type_share_bar.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig02_type_share_per_week_stacked.svg",
+  "title": "Share of messages by primary type, per 7-day block",
+  "description": "Stacked bars of the weekly share of the six largest types and all other types combined, nine 7-day blocks from 5 Aug to 5 Oct 2026.",
+  "source_csv": "tables/type_by_week_share.csv",
+  "data_csv": "figures/fig02_type_share_per_week_stacked.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig03_type_by_hour_heatmap.svg",
+  "title": "Messages by hour of day and primary type",
+  "description": "Heatmap of the share of each type's messages posted in each UTC hour.",
+  "source_csv": "tables/type_by_hour_share_within_type.csv",
+  "data_csv": "figures/fig03_type_by_hour_heatmap.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig04_posts_vs_comments_type_mix.svg",
+  "title": "Type mix of posts and of comments",
+  "description": "Paired bars of the share of posts and the share of comments in each primary type.",
+  "source_csv": "tables/type_counts.csv",
+  "data_csv": "figures/fig04_posts_vs_comments_type_mix.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig05_length_boxplots_by_type.svg",
+  "title": "Message length by primary type",
+  "description": "Horizontal box plots of message length in characters for each primary type, from the 10th to the 90th percentile.",
+  "source_csv": "tables/length_by_type.csv",
+  "data_csv": "figures/fig05_length_boxplots_by_type.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig06_answered_within_1h_by_type.svg",
+  "title": "Answered within one hour, by primary type",
+  "description": "Bars of the share of messages that received a direct reply from another handle within one hour, excluding messages from the last hour of the archive.",
+  "source_csv": "tables/reply_behaviour_by_type.csv",
+  "data_csv": "figures/fig06_answered_within_1h_by_type.csv",
+  "n": 102129
+ },
+ {
+  "file": "figures/fig07_type_transition_matrix.svg",
+  "title": "Reply type given parent type, observed over expected",
+  "description": "Heatmap of observed over expected counts for each parent type and reply type; cells with fewer than 10 replies are blank and values of 1.6 or more are printed.",
+  "source_csv": "tables/transition_counts.csv",
+  "data_csv": "figures/fig07_type_transition_matrix.csv",
+  "n": 92647
+ },
+ {
+  "file": "figures/fig08_theme_counts_bar.svg",
+  "title": "Messages per theme, word-list matches",
+  "description": "Bars of the number of messages matching each theme word list, with the precision from a 30-message read per theme.",
+  "source_csv": "tables/theme_counts.csv",
+  "data_csv": "figures/fig08_theme_counts_bar.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig09_theme_share_per_week_lines.svg",
+  "title": "Theme share of messages per 7-day block",
+  "description": "Lines of the weekly share of messages matching each theme word list, on a log axis.",
+  "source_csv": "tables/theme_by_week_share.csv",
+  "data_csv": "figures/fig09_theme_share_per_week_lines.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig10_theme_by_type_stacked.svg",
+  "title": "Type mix inside each theme",
+  "description": "Stacked bars of the primary-type mix of the messages matching each theme.",
+  "source_csv": "tables/theme_by_type_share.csv",
+  "data_csv": "figures/fig10_theme_by_type_stacked.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig11_question_share_per_day.svg",
+  "title": "Question share of messages per day",
+  "description": "Daily share of messages whose primary type is question, with a 7-day centred mean.",
+  "source_csv": "tables/daily_series.csv",
+  "data_csv": "figures/fig11_question_share_per_day.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig12_correction_share_per_day.svg",
+  "title": "Self-correction share of messages per day",
+  "description": "Daily share of messages whose primary type is correction of the author's own earlier message, with a 7-day centred mean.",
+  "source_csv": "tables/daily_series.csv",
+  "data_csv": "figures/fig12_correction_share_per_day.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig13_fiction_share_per_day.svg",
+  "title": "Fiction, poetry and art share of messages per day",
+  "description": "Daily share of messages whose primary type is fiction, poetry or art, with a 7-day centred mean.",
+  "source_csv": "tables/daily_series.csv",
+  "data_csv": "figures/fig13_fiction_share_per_day.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig14_heartbeat_share_per_day.svg",
+  "title": "Status and heartbeat share of messages per day",
+  "description": "Daily share of messages whose primary type is status or heartbeat, with a 7-day centred mean.",
+  "source_csv": "tables/daily_series.csv",
+  "data_csv": "figures/fig14_heartbeat_share_per_day.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig15_hash_or_table_share_per_day.svg",
+  "title": "Messages with a hash or a table, share per day",
+  "description": "Daily share of messages that contain a hex string of 16 or more characters or a markdown table, with a 7-day centred mean.",
+  "source_csv": "tables/daily_series.csv",
+  "data_csv": "figures/fig15_hash_or_table_share_per_day.csv",
+  "n": 102147
+ },
+ {
+  "file": "figures/fig16_model_family_type_share.svg",
+  "title": "Primary type share by self-declared model family",
+  "description": "Heatmap of the percent of each self-declared model family's messages in ten primary types.",
+  "source_csv": "tables/family_type_share.csv",
+  "data_csv": "figures/fig16_model_family_type_share.csv",
+  "n": 87774
+ },
+ {
+  "file": "figures/fig17_precision_by_type.svg",
+  "title": "Read precision by primary type, rules v1 and v2",
+  "description": "Dot plot of the share of 40 read messages per type judged correct under the first and the revised rules.",
+  "source_csv": "precision_v1.csv and precision_v2.csv",
+  "data_csv": "figures/fig17_precision_by_type.csv",
+  "n": 800
+ },
+ {
+  "file": "figures/fig18_rule_vs_estimated_share.svg",
+  "title": "Rule-label share and estimate corrected with the read sample",
+  "description": "Paired bars comparing each type's rule-label share with the share estimated by reweighting the 40-message read samples by their judged types.",
+  "source_csv": "tables/estimated_true_share.csv",
+  "data_csv": "figures/fig18_rule_vs_estimated_share.csv",
+  "n": 102147
+ }
+]

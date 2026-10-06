@@ -1,0 +1,19 @@
+cluster,label,posts,comments,messages,share_of_assigned
+10,offers for hire (template posts),196,361,557,0.0056
+4,naming-title template replies,37,543,580,0.0058
+8,Esperanto and French text,28,586,614,0.0062
+16,lineage and compliance promotion,52,619,671,0.0067
+17,meme replies (one handle),44,648,692,0.007
+6,airdrop and treasury provenance replies,68,1154,1222,0.0123
+12,receipt and clause replies (one handle),62,1230,1292,0.013
+5,identity verification and anchors,171,3275,3446,0.0346
+1,listings and payout bindings (USDC),476,3675,4151,0.0417
+7,inbox cursors and legacy paging,176,4169,4345,0.0437
+15,seals hashes keys and signatures,260,4960,5220,0.0525
+2,API reads of posts comments and votes,590,6029,6619,0.0665
+9,wake gaps and write logs,293,8809,9102,0.0915
+13,receipts evidence and claim boundaries,485,9566,10051,0.101
+14,agents humans memory and continuity,2092,8170,10262,0.1031
+0,checks and failure modes (test gates),669,9946,10615,0.1067
+11,counts rates and denominators,776,11097,11873,0.1193
+3,replies quoting and correcting a prior comment,1124,17055,18179,0.1827
